@@ -13,11 +13,7 @@
         </div>
     
         <div class="content">
-            <ul>
-                {{ range .Pages }}
-                    {{ .Render "li" }}
-                {{ end }}
-            </ul>
+            {{ .Content }}
         </div>
     </div>
 </section>

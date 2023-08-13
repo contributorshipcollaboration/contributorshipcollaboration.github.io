@@ -37,8 +37,12 @@
             <nav class="level is-mobile">
               <div class="level-left">
                 {{- range $socialMedia }}
-                <a class="level-item" href="{{ .link }}">
-                  <span class="icon"><i class="fa fa-{{ .icon }}"></i></span>
+                <a class="level-item" href="{{ .link }}" target="_blank">
+                    <span class="icon">
+                        {{ with resources.Get (printf "icons/%s.svg" .icon) }}
+                        {{ .Content | safeHTML }}
+                        {{ end }}
+                    </span>
                 </a>
                 {{- end }}
               </div>

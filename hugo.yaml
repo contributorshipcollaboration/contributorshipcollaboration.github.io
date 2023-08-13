@@ -43,22 +43,16 @@ params:
     # Button text
     buttontext: Get started
     # Where the main hero button links to
-    buttonlink: "#"
+    buttonlink: "projects"
     # Hero image (from static/images/___)
-    image: tenzing.png
+    # image: tenzing.png
     # Footer logos (from static/images/logos/clients/*.svg)
     # urls are optional
     clientlogos:
     - logo: collabra
       url: https://online.ucpress.edu/collabra
-    - logo: tribe
-      url: https://stefma.github.io/hugo-fresh/
-    - logo: kromo
-      url: https://github.com/StefMa/hugo-fresh
-    - logo: infinite
-      url: https://hugo-fresh.vercel.app/
-    - logo: gutwork
-      url: https://bulma.io/
+    - logo: dora
+      url: https://sfdora.org/resource-library/?_resource_type=tools
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Home
@@ -66,6 +60,7 @@ params:
   - title: Blog
     url: /blog
   - title: Projects
+    url: /projects
     sublinks:
     - title: tenzing.club
       url: /projects/tenzingclub
@@ -181,25 +176,23 @@ params:
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
     - link: https://github.com/tenzing-contrib
-      # Icons are from Font Awesome
+      # Icons are from Bootstrap icons
       icon: github
     - link: https://neuromatch.social/@tenzingContrib
-      icon: twitter
+      icon: mastodon
     bulmalogo: false
     quicklinks:
       column1:
         title: "Projects"
         links:
         - text: tenzing.club
-          link: /
+          link: /projects/tenzingclub
         - text: pasang
-          link: /
+          link: /projects/pasang
         - text: belayer
-          link: /
+          link: /projects/belayer
       column2:
         title: "Blog"
         links:
         - text: Latest news
-          link: /blog/first
-        - text: Tech articles
-          link: /blog/second
+          link: /blog

@@ -8032,8 +8032,8 @@ Hero styles
 Fresh Footer
 ========================================================================== */
 footer.footer-dark {
-  background: #444F60;
-  color: #fff; }
+  background: #fff;
+  color: #D45F68; }
   footer.footer-dark .columns {
     margin-top: 35px; }
   footer.footer-dark .footer-logo img {
@@ -8048,17 +8048,28 @@ footer.footer-dark {
     line-height: 40px;
     font-size: 1.1rem; }
     footer.footer-dark .footer-column ul.link-list a {
-      color: #98a9c3;
+      color: #A9ABAC;
       font-weight: 400;
       transition: all 0.5s; }
     footer.footer-dark .footer-column ul.link-list :hover {
-      color: #fcfcfc; }
+      color: #7ec4ad; }
   footer.footer-dark .footer-column .level-item .icon {
     color: #7ec4ad;
     font-size: 2em;
     transition: all 0.5s; }
-    footer.footer-dark .footer-column .level-item .icon :hover {
-      color: #fcfcfc; }
+    footer.footer-dark .footer-column .level-item .icon svg {
+      width: 2em;
+      /* Adjust the width as needed */
+      height: 2em;
+      /* Adjust the height as needed */
+      /* Additional styles for scaling */
+      transform-origin: center center;
+      transform: scale(1);
+      /* Default scale */ }
+      footer.footer-dark .footer-column .level-item .icon svg:hover {
+        color: rgba(126, 196, 173, 0.2);
+        transform: scale(1.2);
+        /* Increased scale on hover */ }
 
 /* ==========================================================================
 Classes to change the feel of bulma buttons
