@@ -15,6 +15,15 @@
         <div class="content">
             {{ .Content }}
         </div>
+        <div class="columns">
+            {{ range .Pages }}
+            <div class="column">
+                <a class="button cta rounded primary-btn raised" href="{{ .Permalink }}">
+                  {{ .Title }}
+                </a>
+            </div>
+            {{- end }}
+        </div>
     </div>
 </section>
 
