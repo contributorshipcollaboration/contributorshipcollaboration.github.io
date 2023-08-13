@@ -1,0 +1,15 @@
+<li style="list-style: none;">
+    <div class="card blog-card">
+        <div class="card-header">
+            <div class="card-header-title">
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+            </div>
+        </div>
+        <div class="card-content">
+            <div class="card-text">
+                <p>{{ .Params.description }}</p>
+                <i><div class="meta">{{ .Date.Format "Mon, Jan 2, 2006" }}</div></i>
+            </div>
+        </div>
+    </div>
+</li>

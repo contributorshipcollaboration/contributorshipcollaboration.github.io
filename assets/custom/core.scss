@@ -1,0 +1,25 @@
+.is-256x256 {
+    width: 256px;
+    height: 256px;
+  }
+
+.no-bullet {
+  list-style: none;
+  }
+
+.blog-card {
+  background-color: $lighter-secondary;
+  border-radius: 10px;
+  a {
+    color: $medium-grey;
+
+    &:hover {
+      color: $title-grey;
+      text-decoration: underline;
+    }
+  }
+  .card-text {
+    padding: 0 40px;
+    color: $muted-grey;
+  }
+}

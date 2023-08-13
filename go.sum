@@ -1,0 +1,5 @@
+github.com/StefMa/hugo-fresh v1.0.1-0.20230717002855-1340b542d566 h1:/b7j4Hqb6kiU7bKu3pbMReZChcTS1J5QKborG4D16YM=
+github.com/StefMa/hugo-fresh v1.0.1-0.20230717002855-1340b542d566/go.mod h1:yRzHyco0bfnITjvq7rfAiOADfGMrDlM0kXeKBllUJEc=
+github.com/jgthms/bulma v0.0.0-20220508134905-3e00a8e6d0d0/go.mod h1:89FLBKXYFKfOKAoDeUT26V0pHGwzr205cMXAEqtAVOI=
+github.com/twbs/icons v1.10.5 h1:F9uvW7cGfDBAautw5aeCmnB3hw4vv3aEQGbHnzcQKaE=
+github.com/twbs/icons v1.10.5/go.mod h1:GnRlymgVWp5iVJCMa0Me5b6tFyGpVc2bSxPMRGIJmyA=
