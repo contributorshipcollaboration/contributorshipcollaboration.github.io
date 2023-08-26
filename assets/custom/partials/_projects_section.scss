@@ -1,0 +1,55 @@
+/* ==========================================================================
+Section Styles
+========================================================================== */
+
+//Sections
+.projects-section {
+    @extend .section;
+    
+    // &.section-light-grey {
+    //     background-color: $light-grey;
+    // }
+
+    // &.section-feature-grey {
+    //     background-color: $section-grey;
+    // }
+
+    // &.section-secondary {
+    //     background-color: $secondary;
+    // }
+
+    // &.section-half {
+    //     height: 75vh !important;
+    // }
+
+    // .title,
+    // .subtitle {
+    //     font-family: 'Open Sans', sans-serif;
+
+    // }
+
+    // .subtitle {
+    //     &.is-muted {
+    //         color: $muted-grey;
+    //     }
+    // }
+
+    .icon {
+        @extend .icon;
+        color: $primary;
+        transition: all 0.5s;
+
+        svg {
+            /* Additional styles for scaling */
+            transform-origin: center center;
+            transform: scale(1);
+            /* Default scale */
+
+            &:hover {
+                color: $primary-lighter;
+                transform: scale(1.2);
+                /* Increased scale on hover */
+            }
+        }
+    }
+}

@@ -1446,7 +1446,7 @@ a.box:active {
 .content.is-large {
   font-size: 1.5rem; }
 
-.icon {
+.icon, .projects-section .icon {
   align-items: center;
   display: inline-flex;
   justify-content: center;
@@ -2870,21 +2870,29 @@ a.tag:hover {
   font-size: 1rem;
   position: relative;
   text-align: inherit; }
-  .control.has-icons-left .input:focus ~ .icon,
-  .control.has-icons-left .select:focus ~ .icon, .control.has-icons-right .input:focus ~ .icon,
-  .control.has-icons-right .select:focus ~ .icon {
+  .control.has-icons-left .input:focus ~ .icon, .control.has-icons-left .projects-section .input:focus ~ .icon,
+  .control.has-icons-left .select:focus ~ .icon,
+  .control.has-icons-left .projects-section .select:focus ~ .icon, .control.has-icons-right .input:focus ~ .icon, .control.has-icons-right .projects-section .input:focus ~ .icon,
+  .control.has-icons-right .select:focus ~ .icon,
+  .control.has-icons-right .projects-section .select:focus ~ .icon {
     color: #4a4a4a; }
-  .control.has-icons-left .input.is-small ~ .icon,
-  .control.has-icons-left .select.is-small ~ .icon, .control.has-icons-right .input.is-small ~ .icon,
-  .control.has-icons-right .select.is-small ~ .icon {
+  .control.has-icons-left .input.is-small ~ .icon, .control.has-icons-left .projects-section .input.is-small ~ .icon,
+  .control.has-icons-left .select.is-small ~ .icon,
+  .control.has-icons-left .projects-section .select.is-small ~ .icon, .control.has-icons-right .input.is-small ~ .icon, .control.has-icons-right .projects-section .input.is-small ~ .icon,
+  .control.has-icons-right .select.is-small ~ .icon,
+  .control.has-icons-right .projects-section .select.is-small ~ .icon {
     font-size: 0.75rem; }
-  .control.has-icons-left .input.is-medium ~ .icon,
-  .control.has-icons-left .select.is-medium ~ .icon, .control.has-icons-right .input.is-medium ~ .icon,
-  .control.has-icons-right .select.is-medium ~ .icon {
+  .control.has-icons-left .input.is-medium ~ .icon, .control.has-icons-left .projects-section .input.is-medium ~ .icon,
+  .control.has-icons-left .select.is-medium ~ .icon,
+  .control.has-icons-left .projects-section .select.is-medium ~ .icon, .control.has-icons-right .input.is-medium ~ .icon, .control.has-icons-right .projects-section .input.is-medium ~ .icon,
+  .control.has-icons-right .select.is-medium ~ .icon,
+  .control.has-icons-right .projects-section .select.is-medium ~ .icon {
     font-size: 1.25rem; }
-  .control.has-icons-left .input.is-large ~ .icon,
-  .control.has-icons-left .select.is-large ~ .icon, .control.has-icons-right .input.is-large ~ .icon,
-  .control.has-icons-right .select.is-large ~ .icon {
+  .control.has-icons-left .input.is-large ~ .icon, .control.has-icons-left .projects-section .input.is-large ~ .icon,
+  .control.has-icons-left .select.is-large ~ .icon,
+  .control.has-icons-left .projects-section .select.is-large ~ .icon, .control.has-icons-right .input.is-large ~ .icon, .control.has-icons-right .projects-section .input.is-large ~ .icon,
+  .control.has-icons-right .select.is-large ~ .icon,
+  .control.has-icons-right .projects-section .select.is-large ~ .icon {
     font-size: 1.5rem; }
   .control.has-icons-left .icon, .control.has-icons-right .icon {
     color: #dbdbdb;
@@ -7776,14 +7784,14 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
   @media screen and (min-width: 769px), print {
     .hero-body {
       padding: 3rem 3rem; } }
-.section {
+.section, .projects-section {
   padding: 3rem 1.5rem; }
   @media screen and (min-width: 1024px) {
-    .section {
+    .section, .projects-section {
       padding: 3rem 3rem; }
-      .section.is-medium {
+      .section.is-medium, .is-medium.projects-section {
         padding: 9rem 4.5rem; }
-      .section.is-large {
+      .section.is-large, .is-large.projects-section {
         padding: 18rem 6rem; } }
 .footer {
   background-color: #fafafa;
@@ -7959,22 +7967,22 @@ div.nav-item.is-drop {
 /* ==========================================================================
 Section Styles
 ========================================================================== */
-.section.section-light-grey {
+.section.section-light-grey, .section-light-grey.projects-section {
   background-color: #EFF4F7; }
 
-.section.section-feature-grey {
+.section.section-feature-grey, .section-feature-grey.projects-section {
   background-color: #fbfbfb; }
 
-.section.section-secondary {
+.section.section-secondary, .section-secondary.projects-section {
   background-color: #7ec4ad; }
 
-.section.section-half {
+.section.section-half, .section-half.projects-section {
   height: 75vh !important; }
 
-.section .title, .section .subtitle {
+.section .title, .projects-section .title, .section .subtitle, .projects-section .subtitle {
   font-family: 'Open Sans', sans-serif; }
 
-.section .subtitle.is-muted {
+.section .subtitle.is-muted, .projects-section .subtitle.is-muted {
   color: #999; }
 
 .title-wrapper {
@@ -8753,6 +8761,22 @@ body #backtotop a {
 :-moz-placeholder {
   /* Firefox 18- */
   color: #cecece; }
+
+/* ==========================================================================
+Section Styles
+========================================================================== */
+.projects-section .icon {
+  color: #D45F68;
+  transition: all 0.5s; }
+  .projects-section .icon svg {
+    /* Additional styles for scaling */
+    transform-origin: center center;
+    transform: scale(1);
+    /* Default scale */ }
+    .projects-section .icon svg:hover {
+      color: #E9828D;
+      transform: scale(1.2);
+      /* Increased scale on hover */ }
 
 .is-256x256 {
   width: 256px;

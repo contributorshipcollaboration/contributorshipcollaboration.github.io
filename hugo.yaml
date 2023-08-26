@@ -53,6 +53,8 @@ params:
       url: https://online.ucpress.edu/collabra
     - logo: dora
       url: https://sfdora.org/resource-library/?_resource_type=tools
+    - logo: ukrn
+      url: https://www.ukrn.org/
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Home
