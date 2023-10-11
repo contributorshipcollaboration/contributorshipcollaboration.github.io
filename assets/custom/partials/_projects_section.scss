@@ -6,33 +6,16 @@ Section Styles
 .projects-section {
     @extend .section;
     
-    // &.section-light-grey {
-    //     background-color: $light-grey;
-    // }
+    .project-name {
+        color: $primary;
+        text-decoration: none; // Remove the default underline
+        transition: color 0.3s, text-decoration 0.3s; // Add a transition for a smooth effect
 
-    // &.section-feature-grey {
-    //     background-color: $section-grey;
-    // }
-
-    // &.section-secondary {
-    //     background-color: $secondary;
-    // }
-
-    // &.section-half {
-    //     height: 75vh !important;
-    // }
-
-    // .title,
-    // .subtitle {
-    //     font-family: 'Open Sans', sans-serif;
-
-    // }
-
-    // .subtitle {
-    //     &.is-muted {
-    //         color: $muted-grey;
-    //     }
-    // }
+        &:hover {
+            color: $primary-lighter; // Change the color on hover
+            text-decoration: underline; // Underline the text on hover
+        }
+    }
 
     .icon {
         @extend .icon;
@@ -42,14 +25,23 @@ Section Styles
         svg {
             /* Additional styles for scaling */
             transform-origin: center center;
-            transform: scale(1);
+            transform: scale(3);
             /* Default scale */
 
             &:hover {
                 color: $primary-lighter;
-                transform: scale(1.2);
+                transform: scale(3.5);
                 /* Increased scale on hover */
             }
+        }
+    }
+
+    a {
+        color: $primary;
+        text-decoration: none;
+
+        &:hover {
+            color: $primary-lighter;
         }
     }
 }

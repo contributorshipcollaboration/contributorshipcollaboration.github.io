@@ -2,4 +2,4 @@
 title: Projects
 ---
 
-This is a summary that helps the users to choose between the projects they are interested in.
+These are the projects that we are currently working on. Select one to see more details about the project.

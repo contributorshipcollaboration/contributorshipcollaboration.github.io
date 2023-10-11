@@ -39,7 +39,7 @@ params:
     # Main hero title
     title: Document and report contributorships
     # Hero subtitle (optional)
-    subtitle: Facilitate researcher reporting of contributorship in journal articles using CRediT.
+    subtitle: Facilitate researcher reporting of contributorship in journal articles using CRediT
     # Button text
     buttontext: Get started
     # Where the main hero button links to
@@ -55,6 +55,8 @@ params:
       url: https://sfdora.org/resource-library/?_resource_type=tools
     - logo: ukrn
       url: https://www.ukrn.org/
+    - logo: experiment
+      url: https://www.experiment.foundation/
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Home
@@ -70,6 +72,8 @@ params:
       url: /projects/pasang
     - title: belayer
       url: /projects/belayer
+    - title: CRediT in OJS
+      url: /projects/experiment
   - title: About
     url: /about
   - title: Support us
@@ -149,20 +153,20 @@ params:
   #   buttonText: Get started
   #   buttonLink: "#"
   section4:
-    title: Our Clients love us!
-    subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
+    title: User testimonials
+    # subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
     clients:
-    - name: Irma Walters
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: Accountant
+    - name: Erin Buchanan
+      quote: Tenzing saves hours of time for researchers in large scale projects.
+      job: Researcher
       img: 1
-    - name: John Bradley
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: Financial Analyst
+    - name: Tamas Nagy
+      quote: Tenzing turns a horrible academic chore into an easy task.
+      job: Researcher
       img: 2
-    - name: Gary Blackman
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: HR Manager
+    - name: Barnabas Szaszi
+      quote: Tenzing helps me manage the contributors on my big-team science project which would be otherwise excruciating!
+      job: Researcher
       img: 3
   # section5:
   #   title: Drop us a line or two
@@ -193,6 +197,8 @@ params:
           link: /projects/pasang
         - text: belayer
           link: /projects/belayer
+        - text: CRediT in OJS
+          link: /projects/experiment
       column2:
         title: "Blog"
         links:

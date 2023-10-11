@@ -7985,6 +7985,12 @@ Section Styles
 .section .subtitle.is-muted, .projects-section .subtitle.is-muted {
   color: #999; }
 
+.section a, .projects-section a {
+  color: #D45F68;
+  text-decoration: none; }
+  .section a:hover, .projects-section a:hover {
+    color: #E9828D; }
+
 .title-wrapper {
   max-width: 500px;
   margin: 0 auto; }
@@ -8765,18 +8771,32 @@ body #backtotop a {
 /* ==========================================================================
 Section Styles
 ========================================================================== */
+.projects-section .project-name {
+  color: #D45F68;
+  text-decoration: none;
+  transition: color 0.3s, text-decoration 0.3s; }
+  .projects-section .project-name:hover {
+    color: #E9828D;
+    text-decoration: underline; }
+
 .projects-section .icon {
   color: #D45F68;
   transition: all 0.5s; }
   .projects-section .icon svg {
     /* Additional styles for scaling */
     transform-origin: center center;
-    transform: scale(1);
+    transform: scale(3);
     /* Default scale */ }
     .projects-section .icon svg:hover {
       color: #E9828D;
-      transform: scale(1.2);
+      transform: scale(3.5);
       /* Increased scale on hover */ }
+
+.projects-section a {
+  color: #D45F68;
+  text-decoration: none; }
+  .projects-section a:hover {
+    color: #E9828D; }
 
 .is-256x256 {
   width: 256px;

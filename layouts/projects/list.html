@@ -3,7 +3,7 @@
 {{ partial "navbar.html" . }}
 {{ partial "navbar-clone.html" . }}
 
-<section class="section is-medium">
+<section class="projects-section is-medium">
     <div class="container">
         <div class="columns">
             <div class="column is-centered-tablet-portrait">
@@ -14,15 +14,17 @@
     
         <div class="content">
             {{ .Content }}
-        </div>
-        <div class="columns">
-            {{ range .Pages }}
-            <div class="column">
-                <a class="button cta rounded primary-btn raised" href="{{ .Permalink }}">
-                  {{ .Title }}
-                </a>
-            </div>
-            {{- end }}
+            <ul>
+                {{ range .Pages }}
+                    <li style="list-style: none;">
+                        <a href="{{ .Permalink }}">
+                            <h2 class="project-name">{{ .Title }}</h2>
+                        </a>
+                        <p>{{ .Params.description }}</p>
+                    </li>
+                    <br>
+                {{- end }}
+            </ul>
         </div>
     </div>
 </section>

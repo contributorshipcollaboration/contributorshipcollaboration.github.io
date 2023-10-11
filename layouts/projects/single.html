@@ -18,15 +18,17 @@
                             Open
                         </a>
                     </div>
-                    <div class="column">
-                        <a href="{{ .Params.Githublink }}" target="_blank">
-                            <span class="icon is-large">
-                                {{ with resources.Get "icons/github.svg" }}
-                                {{ .Content | safeHTML }}
-                                {{ end }}
-                            </span>
-                        </a>
-                    </div>
+                    {{ with .Params.Githublink }}
+                        <div class="column">
+                            <a href="{{ . }}" target="_blank">
+                                <span class="icon is-large">
+                                    {{ with resources.Get "icons/github.svg" }}
+                                    {{ .Content | safeHTML }}
+                                    {{ end }}
+                                </span>
+                            </a>
+                        </div>
+                    {{ end }}
                 </div>
             </div>
         </div>
