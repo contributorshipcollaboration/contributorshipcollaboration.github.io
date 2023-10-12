@@ -39,9 +39,9 @@ params:
     # Main hero title
     title: Document contributorship
     # Hero subtitle (optional)
-    subtitle: Facilitate researcher reporting of contributorship in journal articles using CRediT
+    subtitle: Facilitate researcher reporting of who did what in journal articles and other research outputs using CRediT
     # Button text
-    buttontext: Get started
+    buttontext: Projects
     # Where the main hero button links to
     buttonlink: "projects"
     # Hero image (from static/images/___)
