@@ -1,6 +1,6 @@
 baseURL: https://tenzing-contrib.github.io/
 languageCode: en-us
-title: tenzing contributions 
+title: tenzing-contrib 
 
 module:
   # uncomment line below for local development of module
@@ -37,7 +37,7 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: Document and report contributorships
+    title: Document contributorship
     # Hero subtitle (optional)
     subtitle: Facilitate researcher reporting of contributorship in journal articles using CRediT
     # Button text
