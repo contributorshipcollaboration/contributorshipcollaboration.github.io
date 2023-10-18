@@ -10,7 +10,7 @@ tenzing is named after the Nepali-Indian Sherpa Tenzing Norgay, who was one of t
 
 Our first tool, the tenzing Shiny app and associated R package, were developed to facilitate researcher reporting of contributorship information in manuscripts and journal articles.
 
-This repository contains the landing page for the tenzing-contrib Github organization. The page was built with [hugo](https://gohugo.io/) and it uses a modified version of the [hugo-fresh](https://github.com/StefMa/hugo-fresh) theme.
+This repository contains the landing page for the contributorship-collaboration Github organization. The page was built with [hugo](https://gohugo.io/) and it uses a modified version of the [hugo-fresh](https://github.com/StefMa/hugo-fresh) theme.
 
 ## Development mode
 

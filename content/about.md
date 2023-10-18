@@ -3,7 +3,7 @@ title: About
 sidebar: false
 ---
 
-The goal of the _tenzing contributions_ project to make curating and reporting scholarly contributions easier and more transparent.
+The goal of the _Contributorship Collaboration_ project to make curating and reporting scholarly contributions easier and more transparent.
 
 Our organization is named after the Nepali-Indian Sherpa Tenzing Norgay, who was one of the two individuals who reached the summit of Mount Everest for the first time. Despite his essential contribution, the achievement is less credited to him than to his partner, the New Zealand mountaineer Edmund Hillary.
 

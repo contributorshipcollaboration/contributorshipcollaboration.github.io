@@ -1,4 +1,4 @@
-module github.com/tenzing-contrib/tenzing-club
+module github.com/tenzing-contrib/contributorshipcollaboration.github.io
 
 go 1.13
 
