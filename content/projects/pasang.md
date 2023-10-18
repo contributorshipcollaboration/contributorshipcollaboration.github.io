@@ -1,8 +1,8 @@
 ---
 title: pasang
 sidebar: false
-githublink: https://github.com/tenzing-contrib/pasang
-link: https://github.com/tenzing-contrib/pasang
+githublink: https://github.com/contributorshipcollaboration/pasang
+link: https://github.com/contributorshipcollaboration/pasang
 description: Web browser extension for uploading contributors' information on journal management systems.
 ---
 

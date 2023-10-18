@@ -1,8 +1,8 @@
 ---
 title: belayer
 sidebar: false
-githublink: https://github.com/tenzing-contrib/belayer
-link: https://github.com/tenzing-contrib/belayer
+githublink: https://github.com/contributorshipcollaboration/belayer
+link: https://github.com/contributorshipcollaboration/belayer
 description: JSON Schema for journal article metadata.
 ---
 

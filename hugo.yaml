@@ -181,7 +181,7 @@ params:
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
-    - link: https://github.com/tenzing-contrib
+    - link: https://github.com/contributorshipcollaboration
       # Icons are from Bootstrap icons
       icon: github
     - link: https://neuromatch.social/@tenzingContrib
