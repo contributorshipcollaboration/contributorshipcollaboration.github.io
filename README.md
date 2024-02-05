@@ -1,4 +1,4 @@
-# Contributoship Collaboration
+# Contributorship Collaboration
 
 The goal of the __Contributorship Collaboration__ project to make curating and reporting scholarly contributions easier and more transparent.
 
