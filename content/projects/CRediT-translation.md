@@ -1,5 +1,5 @@
 ---
-title: Translating CRediT into other langugaes
+title: Translating CRediT into other languages
 sidebar: false
 link: https://github.com/contributorshipcollaboration/credit-translation
 description: Translating the text of CRediT (the Contributor Roles Taxonomy) from English into other languages.
