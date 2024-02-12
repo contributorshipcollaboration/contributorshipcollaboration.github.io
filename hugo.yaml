@@ -68,6 +68,8 @@ params:
     sublinks:
     - title: tenzing.club
       url: /projects/tenzingclub
+    - title: translation
+      url: /projects/translation
     - title: pasang
       url: /projects/pasang
     - title: belayer
@@ -193,6 +195,8 @@ params:
         links:
         - text: tenzing.club
           link: /projects/tenzingclub
+        - text: translation
+          link: /projects/translation
         - text: pasang
           link: /projects/pasang
         - text: belayer
