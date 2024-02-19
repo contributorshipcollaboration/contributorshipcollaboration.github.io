@@ -1,7 +1,7 @@
 ---
 title: Tenzing history and videos
 sidebar: false
-description: Old links
+description: Links to our previous papers and presentations on tenzing
 date: 2023-10-11
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Translating CRediT, hackathon #2
+title: Translating CRediT, second hackathon
 sidebar: false
 description: Hackathon details 
 date: 2024-02-13
