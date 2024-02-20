@@ -30,7 +30,7 @@ We'll announce another co-working call to jump-start further translations, and o
 1. Entering the translations in machine-readable form in [this repository](https://github.com/contributorshipcollaboration/credit-translation)
 2. Getting the associated website going, including writing code to display the translations there in human-readable form.
 
-| ![kookaburra]([http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg](https://github.com/contributorshipcollaboration/contributorshipcollaboration.github.io/assets/886094/8e367ad9-d866-48e0-ba66-842fdd768b48)) | 
+| ![kookaburra]([http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg](https://github.com/contributorshipcollaboration/contributorshipcollaboration.github.io/assets/886094/8e367ad9-d866-48e0-ba66-842fdd768b48) | 
 |:--:| 
 | Photo: Alex Holcombe |
 
