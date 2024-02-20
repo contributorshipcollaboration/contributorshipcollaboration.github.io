@@ -23,12 +23,16 @@ If you're fluent in a language we haven't done yet and are interested in helping
 
 If you know of journals, scientific societies, or publishers working in languages other than English that might be able to make use of a CRediT translation, we'd like to know about that, too - let us know at the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSfdhqlnk4sw61MkkDuufZyqO1SKmnp--QE6vEG1_7qnP9MzJg/viewform?usp=sf_link).
 
+Oh, another way to help would be to just [give money to the project](https://opencollective.com/tenzing) :smile: .
+
 We'll announce another co-working call to jump-start further translations, and other next steps, including:
 
 
 
 1. Entering the translations in machine-readable form in [this repository](https://github.com/contributorshipcollaboration/credit-translation)
 2. Getting the associated website going, including writing code to display the translations there in human-readable form.
+
+Keep abreast of all our CRediT-related activities by following us on Mastodon at [@tenzingContrib@neuromatch.social](https://neuromatch.social/@tenzingContrib).
 
 | ![kookaburra](https://github.com/contributorshipcollaboration/contributorshipcollaboration.github.io/assets/886094/8e367ad9-d866-48e0-ba66-842fdd768b48) | 
 |:--:| 
