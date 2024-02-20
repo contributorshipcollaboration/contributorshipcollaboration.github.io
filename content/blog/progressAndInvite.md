@@ -1,5 +1,5 @@
 ---
-title: The project so far. And, can you help?
+title: The project so far. And, want to join?
 sidebar: false
 description: Recap and invitation to contribute 
 date: 2024-02-20
