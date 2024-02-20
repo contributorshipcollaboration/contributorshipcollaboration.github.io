@@ -5,7 +5,7 @@ description: Recap and invitation to contribute
 date: 2024-02-20
 ---
 
-With much metascience, evaluation for grants, and scientometrics expected to use CRediT in the future, we don't want non-English scientific journals to be shut out. While English is the lingua franca of science internationally, plenty of important science is published only in other languages, for example much [research in biodiversity and conservation](https://science.uq.edu.au/article/2023/03/going-beyond-english-critical-conservation). 
+In the future, we expect CRediT to increasingly be used in metascience, evaluation for grants, and scientometrics, and we don't want non-English scientific journals to be shut out. While English is the lingua franca of science internationally, plenty of important science is published only in other languages, for example much [research in biodiversity and conservation](https://science.uq.edu.au/article/2023/03/going-beyond-english-critical-conservation). 
 
 As a reminder, [CRediT](https://credit.niso.org/) is a way of providing some information about who did what in a research project, and it's now used by thousands of academic journals. CRediT is a NISO standard, but its text is in English only. In this project, we are creating quality translations into all the languages that we can.
 
