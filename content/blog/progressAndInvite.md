@@ -1,5 +1,5 @@
 ---
-title: The project so far. And, want to join?
+title: The project so far.
 sidebar: false
 description: Recap and invitation to contribute 
 date: 2024-02-20
@@ -17,9 +17,9 @@ So far we have final or close-to-final translations of German, Polish, Hungarian
 
 After someone does an initial translation of CRediT into a target language, as a quality check on the translation, typically a second person fluent in that language, but ideally naive to CRediT, takes the translation and translates it into English. Then, one or both of these two people together look at the original English and the back-translation into English. Any discrepancies are sometimes a result of the original translation being not as good as it could be, and after discussion of this, the people can often see a way to improve the translation.
 
-## Call for volunteers
+## Can you help us?
 
-If you're fluent in a language we haven't done yet and are interested in helping, please provide your name and email at this short [Google form](https://docs.google.com/forms/d/e/1FAIpQLSfdhqlnk4sw61MkkDuufZyqO1SKmnp--QE6vEG1_7qnP9MzJg/viewform?usp=sf_link). 
+If you're fluent in a language we haven't done yet and are interested in joining the project, please provide your name and email at this short [Google form](https://docs.google.com/forms/d/e/1FAIpQLSfdhqlnk4sw61MkkDuufZyqO1SKmnp--QE6vEG1_7qnP9MzJg/viewform?usp=sf_link). 
 
 If you know of journals, scientific societies, or publishers working in languages other than English that might be able to make use of a CRediT translation, we'd like to know about that, too - let us know at the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSfdhqlnk4sw61MkkDuufZyqO1SKmnp--QE6vEG1_7qnP9MzJg/viewform?usp=sf_link).
 
