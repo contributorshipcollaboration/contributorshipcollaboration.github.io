@@ -23,7 +23,7 @@ If you're fluent in a language we haven't done yet and are interested in joining
 
 If you know of journals, scientific societies, or publishers working in languages other than English that might be able to make use of a CRediT translation, we'd like to know about that, too - let us know at the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSfdhqlnk4sw61MkkDuufZyqO1SKmnp--QE6vEG1_7qnP9MzJg/viewform?usp=sf_link).
 
-Oh, another way to help would be to just [give money to the project](https://opencollective.com/tenzing) :smile: .
+Oh, another way to help would be to just [give money to the project](https://opencollective.com/tenzing) :smiley_cat: .
 
 We'll announce another co-working call to jump-start further translations, and other next steps, including:
 
