@@ -19,7 +19,7 @@ After someone does an initial translation of CRediT into a target language, as a
 
 ## Can you help us?
 
-If you're fluent in a language we haven't done yet and are interested in joining the project, please provide your name and email at this short [Google form](https://docs.google.com/forms/d/e/1FAIpQLSfdhqlnk4sw61MkkDuufZyqO1SKmnp--QE6vEG1_7qnP9MzJg/viewform?usp=sf_link). 
+If you're fluent in a language we haven't done yet and are interested in joining the project, please provide your name and email at this short [Google form](https://docs.google.com/forms/d/e/1FAIpQLSfdhqlnk4sw61MkkDuufZyqO1SKmnp--QE6vEG1_7qnP9MzJg/viewform?usp=sf_link). Doing the translation is not a very big job - the entirety of what needs to be translated is only 250 words! 
 
 If you know of journals, scientific societies, or publishers working in languages other than English that might be able to make use of a CRediT translation, we'd like to know about that, too - let us know at the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSfdhqlnk4sw61MkkDuufZyqO1SKmnp--QE6vEG1_7qnP9MzJg/viewform?usp=sf_link).
 
