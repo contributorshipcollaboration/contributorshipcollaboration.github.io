@@ -1,6 +1,6 @@
 ---
 title: Instructions for Contributors
-description: Guidelines for contributing to the translations.
+description: Guidelines for contributing to the translations and other aspects of the project.
 order: 2
 layout: "translation/single"
 ---
