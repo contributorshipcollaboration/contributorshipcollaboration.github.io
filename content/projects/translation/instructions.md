@@ -15,8 +15,8 @@ We invite all interested to contribute to the project.
 
  1. Fill in the [Expression Of Interest (EOI) form](https://docs.google.com/forms/d/e/1FAIpQLSfdhqlnk4sw61MkkDuufZyqO1SKmnp--QE6vEG1_7qnP9MzJg/viewform?usp=sf_link), so we hae your name and contact details.
  1. To enable broad global participation, we will mostly work asynchronously online but have occasional Zoom hackathons.
- 1. We expect all project contributors to familiarise themselves and follow our CODE OF CONDUCT.
- 1. If you would like to comment on this project or provide suggestions to improve this project, feel free to open an issue on GitHub or reach directly to us via
+ 1. We expect all project contributors to familiarise themselves and follow our [code of conduct](https://github.com/marton-balazs-kovacs/tenzing/blob/master/CODE_OF_CONDUCT.md).
+ 1. If you would like to comment on this project or provide suggestions to improve this project, open an issue on GitHub or message on
 Slack (invites will be sent to project participants who filled in the [EOI form](https://docs.google.com/forms/d/e/1FAIpQLSfdhqlnk4sw61MkkDuufZyqO1SKmnp--QE6vEG1_7qnP9MzJg/viewform?usp=sf_link)) or email (aoholcombe@gmail.com).   
  1. We will post updates on project progress on [the blog](https://contributorshipcollaboration.github.io/blog/), as well as the [language status table](https://github.com/contributorshipcollaboration/credit-translation/blob/main/language_status.md)
  1. All contributions to this project are voluntary. We will not provide financial remuneration for any contributions (we have no funding).
