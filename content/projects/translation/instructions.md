@@ -95,8 +95,9 @@ In the manuscript, first and last authorship positions will be reserved to the p
 # 📍 Final notes   
 Project leads reserve the right to interpret and change the contribution rules at any time, if such need arises. In case of any disputes decisions of project leads will be final.    
 
-# 🔧  Maintainer(s)
-* [Alex Holcombe](https://github.com/alexholcombe).   
+# 🔧  Maintainers
+
+[Alex Holcombe](https://github.com/alexholcombe), [Marton Kovacs](https://github.com/marton-balazs-kovacs)  
 
 # 🖍️  License 
 This work is licensed under a [Creative Commons Attribution 4.0 International License (cc-by)](/LICENSE.md).   
