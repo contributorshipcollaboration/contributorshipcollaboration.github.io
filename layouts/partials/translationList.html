@@ -1,0 +1,12 @@
+<ul>
+    {{ range .Site.RegularPages }}
+    {{ if strings.HasPrefix .File.Path "projects/translation/translations/" }}
+        <li style="list-style: none;">    
+            <a href="{{ .Permalink }}">
+                <h2 class="project-name">{{ .Params.language }}</h2>
+            </a>
+        </li>
+        <br>
+    {{ end }}
+  {{ end }}
+</ul>

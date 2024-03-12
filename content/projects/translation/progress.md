@@ -1,11 +1,11 @@
 ---
-title: List of Translations
-description: A comprehensive list of available and ongoing translations.
-order: 1
-layout: "translation/translationslist"
+title: Translations in progress
+description: A comprehensive list of available and ongoing translations and their status.
+order: 3
+layout: "translation/single"
 ---
 
-<!-- | Language  | Translation Status | Github status | Help needed?
+| Language  | Translation Status | Github status | Help needed?
 | ------------- | ------------- | ------------- | ------------- 
 | Hungarian  | Completed | Completed | No
 | German  | Completed  | Completed  | 
@@ -30,4 +30,4 @@ layout: "translation/translationslist"
 | Turkish | Not started - 1 volunteer
 | Persian | Not started - 1 volunteer
 | Dutch | Not started - Eli Thoré 
-| Swedish | Not started - , Eli Thoré? -->
+| Swedish | Not started - , Eli Thoré?
