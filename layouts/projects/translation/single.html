@@ -13,6 +13,9 @@
             </div>
             <div class="column">
                 <div class="columns is-5">
+                    <div class="column">
+                        <button onclick="window.history.back();" class="button cta rounded primary-btn raised">Back</button>
+                    </div>
                     {{ with .Params.Link }}
                         <div class="column">
                             <a class="button cta rounded primary-btn raised" href="{{ . }}" target="_blank">
@@ -21,7 +24,7 @@
                         </div>
                     {{ end }}
                     {{ with .Params.Githublink }}
-                        <div class="column">
+                        <div class="column" title="See it on Github">
                             <a href="{{ . }}" target="_blank">
                                 <span class="icon is-large">
                                     {{ with resources.Get "icons/github.svg" }}

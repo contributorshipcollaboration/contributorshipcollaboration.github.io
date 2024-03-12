@@ -1,8 +1,9 @@
 ---
 title: Translating CRediT into other languages
 sidebar: false
-link: https://github.com/contributorshipcollaboration/credit-translation
+githublink: https://github.com/contributorshipcollaboration/credit-translation
 description: Translating the text of CRediT (the Contributor Roles Taxonomy) from English into other languages.
+layout: "translation/list"
 ---
 
 CRediT is a NISO standard for indicating who did what in the projects associated with scientific journal articles. It is a taxonomy of 14 different roles.
@@ -14,4 +15,3 @@ There will never be official NISO standard translations, because NISO does not d
 Many volunteers came together at our [hackathon at Big Team Science 2023](https://contributorshipcollaboration.github.io/blog/translation/), so we currently have draft translations into 8 languages, including Chinese, Spanish, Japanese, and Spanish.
 Once we enter the translations in machine-readable form in [this repository](https://github.com/contributorshipcollaboration/credit-translation) 
  for journals to use, we will also have code in that repository to also render the translations in human-readable form.
-

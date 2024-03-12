@@ -1,0 +1,22 @@
+<table>
+  <thead>
+    <tr>
+      <th>Language</th>
+      <th>Translation Status</th>
+      <th>Github Status</th>
+      <th>Help Needed?</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{ range .Site.RegularPages }}
+      {{ if strings.HasPrefix .File.Path "projects/translation/translations/" }}
+        <tr>
+          <td><a href="{{ .Permalink }}">{{ .Params.language }}</a></td>
+          <td>{{ .Params.translationStatus }}</td>
+          <td>{{ .Params.githubStatus }}</td>
+          <td>{{ default "No" .Params.helpNeeded }}</td>
+        </tr>
+      {{ end }}
+    {{ end }}
+  </tbody>
+</table>

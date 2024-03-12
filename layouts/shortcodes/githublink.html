@@ -1,0 +1,7 @@
+<a href="{{ .Get "url" }}" target="_blank">
+    <span class="icon is-large">
+        {{ with resources.Get "icons/github.svg" }}
+        {{ .Content | safeHTML }}
+        {{ end }}
+    </span>
+</a>

@@ -1,4 +1,4 @@
-# Sample workflow for building and deploying a Hugo site to GitHub Pages
+# Workflow for building and deploying a Hugo site to GitHub Pages
 name: Deploy Hugo site to Pages
 
 on:
@@ -45,6 +45,13 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
+      - name: Fetch Markdown Files
+        run: |
+          # Code to fetch and copy external Markdown files of CRediT translations
+          mkdir -p content/translation/translations
+          git clone https://github.com/contributorshipcollaboration/credit-translation.git external-content
+          cp external-content/md_files/* content/projects/translation/translations/
+          rm -rf external-content # Cleanup
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3

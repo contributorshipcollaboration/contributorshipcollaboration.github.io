@@ -1,0 +1,38 @@
+{{ define "main" }}
+
+{{ partial "navbar.html" . }}
+{{ partial "navbar-clone.html" . }}
+
+<section class="projects-section is-medium">
+    <div class="container">
+        <div class="columns">
+            <div class="column is-centered-tablet-portrait">
+                <h1 class="title section-title">{{ .Title }}</h1>
+                <div class="divider"></div>
+            </div>
+        </div>
+    
+        <div class="content">
+            {{ .Content }}
+            <ul>
+                {{ range sort .Pages "Params.order" }}
+                    {{ if not (strings.Contains .File.Dir "translations") }}
+                        <li style="list-style: none;">
+                            <a href="{{ .Permalink }}">
+                                <h2 class="project-name">{{ .Title }}</h2>
+                            </a>
+                            <p>{{ .Params.description }}</p>
+                        </li>
+                        <br>
+                    {{ end }}
+                {{- end }}
+            </ul>
+        </div>
+    </div>
+</section>
+
+{{ if .Params.include_footer }}
+{{ partial "footer.html" . }}
+{{ end }}
+
+{{ end }}
