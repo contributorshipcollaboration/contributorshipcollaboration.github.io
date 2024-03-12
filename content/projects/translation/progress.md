@@ -1,6 +1,6 @@
 ---
 title: Translations in progress
-description: A comprehensive list of available and ongoing translations and their status.
+description: Ongoing and planned translations and their status.
 order: 3
 layout: "translation/single"
 ---
