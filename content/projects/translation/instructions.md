@@ -76,7 +76,7 @@ Download one of the existing JSON files, such as [the German one]() and change a
 
 ## Translation contributors 
 
-Contributors will be recognized in that their names will appear in the attribution for the translation they helped create. For example, see the [draft human-readable page for German](https://github.com/contributorshipcollaboration/credit-translation/blob/main/md_files/credit_translation_de.md).
+Contributors will be recognized in that their names will appear in the attribution for the translation they helped create. For example, see the [human-readable page for German](https://contributorshipcollaboration.github.io/projects/translation/translations/credit_translation_de/).
 
 <!-- All project participants who contributed any amount of work, and provided their details, will be acknowledged as project contributors on the project page, report, presentations, and manuscript. We will mainly use a CRediT-like statement format, but we will also keep a more detailed record of individual contributions to specific tasks within the stages of the project. This record will be also made publicly availabe as part of the open project materials (as a publicly available dataset). You can request to have your details removed or obscured at any time.    -->
 
