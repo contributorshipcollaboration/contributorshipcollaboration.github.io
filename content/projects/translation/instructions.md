@@ -5,7 +5,7 @@ order: 2
 layout: "translation/single"
 ---
 
-**Our mission:** Make CRediT more inclusive by translating it into other languages, and assist language communities to adopt CRediT 🌟  
+**Our mission:** Make CRediT more inclusive by translating it into other languages, and assist language communities to adopt CRediT.
 
 # 💛  Contributing 
 
