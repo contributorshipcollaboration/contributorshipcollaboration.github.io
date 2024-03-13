@@ -43,11 +43,11 @@ Before starting on a new translation:
 
 ### If a .json file for your language does NOT already exist:
 
-Download one of the existing JSON files, such as [the German one](https://github.com/contributorshipcollaboration/credit-translation/tree/main/translations) and change all the German text to your target language. Then send it to us.
+Download one of the existing JSON files, such as [the German one](https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/credit_translation_de.json) and change all the German text to your target language. Then send it to us.
 
 ### If a .json for your language DOES already exist: 
 
-* To edit the file, click on the pencil icon. Insert the content for your translation. See [the German one]() for an example.
+* To edit the file, click on the pencil icon. Insert the content for your translation. See [the German one](https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/credit_translation_de.json) for an example.
 * So that the Github repository gets updated, create a pull request by clicking on BLAH BLAH
 * Don't forget to add information about how you did the translation in the "translationProcedure" string of the .json file, here is an example: "TL, CJ, and HH are all native speakers of German. A first version by TL existed for some time. CJ introduced an additional translation draft. TL and CJ merged the few differences between the two versions favoring broader (in the sense of suitability for as many disciplines and working environments as possible) translations. The final translation was then back-translated by HH, and finally approved by all parties." In this case, two forward translations were created, yielding discrepancies that surfaced parts to attend more to. As described in the above [Creating a translation](#-Creating-a-translation) section, however, another way to do that is to look at discrepancies highlighted by doing a back translation.
 * Validate that your edits have not messed up the formatting by entering both the [schema]() and your file at [https://www.jsonschemavalidator.net/](https://www.jsonschemavalidator.net/). This checks for most formatting errors.
