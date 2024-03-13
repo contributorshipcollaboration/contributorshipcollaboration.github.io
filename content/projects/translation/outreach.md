@@ -1,6 +1,6 @@
 ---
-title: Outreach and assissting scientific society/researcher/publisher implementation
-description:
+title: Outreach and assisting scientific society/researcher/publisher implementation
+description: Liaising with and supporting language communities to use CRediT and the translations
 order: 2
 layout: "translation/single"
 ---
