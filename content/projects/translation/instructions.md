@@ -5,13 +5,13 @@ order: 2
 layout: "translation/single"
 ---
 
-**Our mission:** *Make CRediT more inclusive by translating it into other languages and making those in various language communities aware of it* 🌟  
+**Our mission:** Make CRediT more inclusive by translating it into other languages, and assist language communities to adopt CRediT 🌟  
 
 # 💛  Contributing 
 
 We invite all interested to contribute to the project.     
 
-**General:**
+**General instructions:**
 
  1. Fill in the [Expression Of Interest (EOI) form](https://docs.google.com/forms/d/e/1FAIpQLSfdhqlnk4sw61MkkDuufZyqO1SKmnp--QE6vEG1_7qnP9MzJg/viewform?usp=sf_link), so we hae your name and contact details.
  1. To enable broad global participation, we will mostly work asynchronously online but have occasional Zoom hackathons.
