@@ -81,7 +81,7 @@ Unfortunately we don't have funds to remunerate anyone for their work :(
 
 <!-- All project participants who contributed any amount of work, and provided their details, will be acknowledged as project contributors on the project page, report, presentations, and manuscript. We will mainly use a CRediT-like statement format, but we will also keep a more detailed record of individual contributions to specific tasks within the stages of the project. This record will be also made publicly availabe as part of the open project materials (as a publicly available dataset). You can request to have your details removed or obscured at any time.    -->
 
-## 📄 Co-authorship (or, should that be co-contributorship? 😀)
+## 📄 Co-authorship (or, should that be co-*contributorship*? 😀)
 Project participants with substantial and high-quality contributions (as defined below) will become co-authors of the manuscript.
 They will contribute to any or all of these: translation, checking, website code, coordination, and/or report drafting.   
 
