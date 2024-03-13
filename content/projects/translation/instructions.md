@@ -5,7 +5,7 @@ order: 2
 layout: "translation/single"
 ---
 
-**Our mission:** Make CRediT more inclusive by translating it into other languages, and assist language communities to adopt CRediT.
+**Our mission:** Make CRediT more inclusive by translating it into other languages, and assist communities to adopt CRediT.
 
 # 💛  Contributing 
 
@@ -18,7 +18,7 @@ We invite all interested to contribute to the project.
  1. We expect all project contributors to familiarise themselves and follow our [code of conduct](https://github.com/marton-balazs-kovacs/tenzing/blob/master/CODE_OF_CONDUCT.md).
  1. If you would like to comment on this project or provide suggestions to improve this project, open an issue on GitHub or message on
 Slack (invites will be sent to project participants who filled in the [EOI form](https://docs.google.com/forms/d/e/1FAIpQLSfdhqlnk4sw61MkkDuufZyqO1SKmnp--QE6vEG1_7qnP9MzJg/viewform?usp=sf_link)) or email (aoholcombe@gmail.com).   
- 1. We will post updates on project progress on [the blog](https://contributorshipcollaboration.github.io/blog/), as well as the [language status table](https://github.com/contributorshipcollaboration/credit-translation/blob/main/language_status.md)
+ 1. We will post updates on [the blog](https://contributorshipcollaboration.github.io/blog/), as well as the [language status table](https://github.com/contributorshipcollaboration/contributorshipcollaboration.github.io/blob/master/content/projects/translation/progress.md)
  1. All contributions to this project are voluntary. We will not provide financial remuneration for any contributions (we have no funding).
  1. You can withdraw from the project at any time.        
 
@@ -28,7 +28,7 @@ Anyone fluent in a language not already translated can help provide a new transl
 
 Before starting on a new translation:
 
-* [Check the current status](progress.md) of translation for your language.
+* [Check the current status](https://github.com/contributorshipcollaboration/contributorshipcollaboration.github.io/blob/master/content/projects/translation/progress.md) of translation for your language.
 * Follow the instructions in the below [translation section](#-Creating-a-translation).
 
 ### Creating a translation
@@ -39,11 +39,11 @@ Before starting on a new translation:
 * Feel free to use Google Translate to assist, just don't rely on it, for example don't use it for both the forward and back-translation.
 * Discrepancies between the original English and the back-translated English can tip one off to parts of the translation that deserve attention, where one should consider alternative phrasings. So, the two speakers confer and resolve any discrepancies.
 * To make your translation machine-readable, we can help you create a JSON file, following the format of the [schema](). See instructions below.
- * To see if a .json file already exists, look [here]() for a file with the [two-letter abbreviation](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes) for your language.
+ * To see if a .json file already exists, look [here](https://github.com/contributorshipcollaboration/credit-translation/tree/main/translations) for a file with the [two-letter abbreviation](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes) for your language.
 
 ### If a .json file for your language does NOT already exist:
 
-Download one of the existing JSON files, such as [the German one]() and change all the German text to your target language. Then send it to us.
+Download one of the existing JSON files, such as [the German one](https://github.com/contributorshipcollaboration/credit-translation/tree/main/translations) and change all the German text to your target language. Then send it to us.
 
 ### If a .json for your language DOES already exist: 
 
