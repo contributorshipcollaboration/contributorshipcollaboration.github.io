@@ -100,4 +100,4 @@ Project leads reserve the right to interpret and change the contribution rules a
 [Alex Holcombe](https://github.com/alexholcombe), [Marton Kovacs](https://github.com/marton-balazs-kovacs)  
 
 # 🖍️  License 
-This work is licensed under a [Creative Commons Attribution 4.0 International License (cc-by)](/LICENSE.md).   
+This work is licensed under a [Creative Commons Attribution 4.0 International License (CC-BY)](/LICENSE.md). Individual translations have different people to attribute the work to.
