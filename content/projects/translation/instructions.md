@@ -38,7 +38,7 @@ Before starting on a new translation:
 * A second speaker, ideally one not familiar with CRediT, back-translates the translation into English.
 * Feel free to use Google Translate to assist, just don't rely on it, for example don't use it for both the forward and back-translation.
 * Discrepancies between the original English and the back-translated English can tip one off to parts of the translation that deserve attention, where one should consider alternative phrasings. So, the two speakers confer and resolve any discrepancies.
-* To make your translation machine-readable, we can help you create a JSON file, following the format of the [schema](). See instructions below.
+* To make your translation machine-readable, we can help you create a JSON file. See instructions below.
  * To see if a .json file already exists, look [here](https://github.com/contributorshipcollaboration/credit-translation/tree/main/translations) for a file with the [two-letter abbreviation](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes) for your language.
 
 ### If a .json file for your language does NOT already exist:
@@ -50,7 +50,7 @@ Download one of the existing JSON files, such as [the German one](https://github
 * To edit the file, click on the pencil icon. Insert the content for your translation. See [the German one](https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/credit_translation_de.json) for an example.
 * So that the Github repository gets updated, create a pull request by clicking on BLAH BLAH
 * Don't forget to add information about how you did the translation in the "translationProcedure" string of the .json file, here is an example: "TL, CJ, and HH are all native speakers of German. A first version by TL existed for some time. CJ introduced an additional translation draft. TL and CJ merged the few differences between the two versions favoring broader (in the sense of suitability for as many disciplines and working environments as possible) translations. The final translation was then back-translated by HH, and finally approved by all parties." In this case, two forward translations were created, yielding discrepancies that surfaced parts to attend more to. As described in the above [Creating a translation](#-Creating-a-translation) section, however, another way to do that is to look at discrepancies highlighted by doing a back translation.
-* Validate that your edits have not messed up the formatting by entering both the [schema]() and your file at [https://www.jsonschemavalidator.net/](https://www.jsonschemavalidator.net/). This checks for most formatting errors.
+* Validate that your edits have not messed up the formatting by entering both the [schema](https://github.com/contributorshipcollaboration/credit-translation/blob/main/credit_translation_schema.json) and your file at [https://www.jsonschemavalidator.net/](https://www.jsonschemavalidator.net/). This checks for most formatting errors.
 * Generate a pull request
 
 ### Validate your .json file
