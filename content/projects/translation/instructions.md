@@ -70,6 +70,7 @@ Download one of the existing JSON files, such as [the German one](https://github
 * Outreach and implementation 
  * Contact scientific societies and scientific publishers who publish in these languages
 * Organize a hackathon ad hoc or at a scientific conference
+* Help write [the journal article about this project](https://docs.google.com/document/d/1wbRRpMWXfW6iKMQf8bLDy11Ig5fmiZmyJcRwuo4C4RA/edit?usp=sharing)
 
 # 💝  Acknowledgement of contributions   
 
@@ -91,7 +92,7 @@ IMPORTANT: Authorship is also coditional on reading and approving the final manu
 
 Additional contribution oportunities may be available.
 
-In the manuscript, first and last authorship positions will be reserved to the project leads (they could be co-first and co-last positions). Subsequent authorship positions will be determined by the total amount and quality of contributions, as in the project records. For equal contributions the order of mid-authorship will be alphabetic. All authors must read and approve the final manuscript draft before submission. The manuscript will contain a CRediT statement detailing the roles of individual authors and contributors.   
+First and last author positions are reserved for the project leads (they could be co-first and co-last positions). Subsequent authorship positions will be determined by the total amount and quality of contributions, as in the project records. For equal contributions the order of mid-authorship will be alphabetic. All authors must read and approve the final manuscript draft before submission. The manuscript will contain a CRediT statement detailing the roles of individual authors and contributors.   
 
 # 📍 Final notes   
 Project leads reserve the right to interpret and change the contribution rules at any time, if such need arises. In case of any disputes decisions of project leads will be final.    
