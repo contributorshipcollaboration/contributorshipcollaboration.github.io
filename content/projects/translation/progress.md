@@ -13,15 +13,14 @@ layout: "translation/single"
 | Polish  | Completed  | Completed
 | Chinese (traditional)  | Completed  | Not done
 | Chinese (simplified)  | Completed | Not done
-| Danish | Rasmus Pedersen and Rasmus | 
-| Dutch | Eli Thoré, Ruben Thoré done | uploaded 
+| Danish  | completed (Rasmus Pedersen & Rasmus) | need to put into JSON
+| Dutch | completed (Eli Thoré, Ruben Thoré) | uploaded 
 | Japanese  | Completed  | Not done
 | French  | waiting on back-translation?  | 
 | Spanish  | back-translation   | yes, 2nd translator needed, email XXX
 | Russian  | almost done |
 | Afrikaans  | Lizaan ,  |
 | Swahili  | Yusuph Aron Kafula  and Harriet Melany Nyamvula |
-| Danish  | Done - Rasmus Pedersen &  | need to put into JSON
 | Norwegian - Nynorsk  | completed by Bjørn Sætrevik & Ulvhild Færøvik |
 | Norwegian - Bokmal | completed by Bjørn Sætrevik & Ulvhild Færøvik |
 | Hindi  | Not started - 2 volunteers |
