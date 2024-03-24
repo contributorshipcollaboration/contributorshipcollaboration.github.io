@@ -13,7 +13,7 @@ layout: "translation/single"
 | Polish  | Completed  | Completed
 | Chinese (traditional)  | Completed  | Not done
 | Chinese (simplified)  | Completed | Not done
-| Danish  | completed (Rasmus Pedersen & Rasmus) | need to put into JSON
+| Danish  | completed (Rasmus Pedersen & Rasmus Overmark) | need to put into JSON
 | Dutch | completed (Eli Thoré, Ruben Thoré) | uploaded 
 | Japanese  | Completed  | Not done
 | French  | waiting on back-translation?  | 
