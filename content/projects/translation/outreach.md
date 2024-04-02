@@ -14,5 +14,5 @@ layout: "translation/single"
 | Russian  |  |
 | Norwegian (both) 
 | Polish | Polish Academy of Science published several journals |  Losia will contact
-| Czech | | https://www.casopis.ochranaprirody.cz/ | | Nina Trubanova
+| Czech | | https://www.casopis.ochranaprirody.cz/ |  Nina Trubanova
 | Norwegian | | | Bjorn Saetrevik
