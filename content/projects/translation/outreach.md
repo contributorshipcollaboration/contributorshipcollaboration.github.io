@@ -14,3 +14,4 @@ layout: "translation/single"
 | Russian  |  |
 | Norwegian (both) 
 | Polish | Polish Academy of Science published several journals |  Losia will contact
+| Czech | 
