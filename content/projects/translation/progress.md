@@ -27,7 +27,7 @@ layout: "translation/single"
 | Greek  | Not started - 2 volunteers |
 | Malayalam | Not started - 1 volunteer
 | Slovak | Not started - 1 volunteer
-| Czech | Not started - 1 volunteer
+| Czech | Nina Trubokova will start
 | Afrikaans | Not started - 1 volunteer
 | Turkish | Not started - 1 volunteer
 | Persian | Saeed started
