@@ -30,5 +30,5 @@ layout: "translation/single"
 | Czech | Not started - 1 volunteer
 | Afrikaans | Not started - 1 volunteer
 | Turkish | Not started - 1 volunteer
-| Persian | Not started - 1 volunteer
+| Persian | Saeed started
 | Swedish | Not started - , Eli Thoré?
