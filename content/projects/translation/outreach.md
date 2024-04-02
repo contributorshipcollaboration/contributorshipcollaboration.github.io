@@ -15,3 +15,4 @@ layout: "translation/single"
 | Norwegian (both) 
 | Polish | Polish Academy of Science published several journals |  Losia will contact
 | Czech | 
+| Farsi | 
