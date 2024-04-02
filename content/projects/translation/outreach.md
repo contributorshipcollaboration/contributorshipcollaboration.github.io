@@ -16,3 +16,5 @@ layout: "translation/single"
 | Polish | Polish Academy of Science published several journals |  Losia will contact
 | Czech | | https://www.casopis.ochranaprirody.cz/ |  Nina Trubanova
 | Norwegian | | | Bjorn Saetrevik
+
+| Farsi |  Journal of Acoustical Society of Iran | Saeed Shafiei Sabet
