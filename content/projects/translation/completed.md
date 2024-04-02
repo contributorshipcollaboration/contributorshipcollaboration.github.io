@@ -1,6 +1,6 @@
 ---
-title: List of completed translations
-description: A list of completed translations
+title: Completed translations
+description: The completed translations
 order: 1
 layout: "translation/single"
 ---
