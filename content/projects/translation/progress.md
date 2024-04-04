@@ -7,6 +7,7 @@ layout: "translation/single"
 
 | Language  | Translation Status | Github status | Help needed? 
 | ------------- | ------------- | ------------- | ------------- 
+| Amharic  | Started by Befkadu Mewded | No | 
 | Hungarian  | Completed | Completed | No
 | German  | Completed  | Completed  | 
 | Portuguese  | Completed  | Completed
