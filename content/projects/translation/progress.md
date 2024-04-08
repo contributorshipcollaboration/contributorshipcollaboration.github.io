@@ -7,29 +7,29 @@ layout: "translation/single"
 
 | Language  | Translation Status | Github status | Help needed? 
 | ------------- | ------------- | ------------- | ------------- 
+| Afrikaans | Not started - 1 volunteer
+| Afrikaans  | Lizaan ,  |
 | Amharic  | Started by Befkadu Mewded | No | 
-| Hungarian  | Completed | Completed | No
-| German  | Completed  | Completed  | 
-| Portuguese  | Completed  | Completed
-| Polish  | Completed  | Completed
-| Chinese (traditional)  | Completed  | Not done
 | Chinese (simplified)  | Completed | Not done
+| Chinese (traditional)  | Completed  | Not done
+| Czech | Nina Trubokova will start
 | Danish  | completed (Rasmus Pedersen & Rasmus Overmark) | need to put into JSON
 | Dutch | completed (Eli Thoré, Ruben Thoré) | uploaded 
-| Japanese  | Completed  | Not done
 | French  | waiting on back-translation?  | 
-| Spanish  | back-translation   | yes, 2nd translator needed, email XXX
-| Russian  | almost done |
-| Afrikaans  | Lizaan ,  |
-| Swahili  | Yusuph Aron Kafula  and Harriet Melany Nyamvula |
-| Norwegian - Nynorsk  | completed by Bjørn Sætrevik & Ulvhild Færøvik |
-| Norwegian - Bokmal | completed by Bjørn Sætrevik & Ulvhild Færøvik |
-| Hindi  | Not started - 2 volunteers |
+| German  | Completed  | Completed  | 
 | Greek  | Not started - 2 volunteers |
-| Malayalam | Not started - 1 volunteer
-| Slovak | Not started - 1 volunteer
-| Czech | Nina Trubokova will start
-| Afrikaans | Not started - 1 volunteer
-| Turkish | Not started - 1 volunteer
+| Hindi  | Not started - 2 volunteers |
+| Hungarian  | Completed | Completed | No
+| Japanese  | Completed  | Not done
+| Malayalam | Aswathi Started - 1 volunteer 
+| Norwegian - Bokmal | completed by Bjørn Sætrevik & Ulvhild Færøvik |
+| Norwegian - Nynorsk  | completed by Bjørn Sætrevik & Ulvhild Færøvik |
 | Persian | Saeed started
+| Polish  | Completed  | Completed
+| Portuguese  | Completed  | Completed
+| Russian  | almost done |
+| Slovak | Not started - 1 volunteer
+| Spanish  | back-translation   | yes, 2nd translator needed, email XXX
+| Swahili  | Yusuph Aron Kafula  and Harriet Melany Nyamvula |
 | Swedish | Not started - , Eli Thoré?
+| Turkish | Not started - 1 volunteer
