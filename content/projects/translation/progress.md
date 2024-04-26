@@ -12,6 +12,7 @@ layout: "translation/single"
 | Amharic  | Started by Befkadu Mewded | No | 
 | Chinese (simplified)  | Completed | Not done
 | Chinese (traditional)  | Completed  | Not done
+| Bahasa Indonesian | need people
 | Czech | Nina Trubokova will start
 | Danish  | completed (Rasmus Pedersen & Rasmus Overmark) | need to put into JSON
 | Dutch | completed (Eli Thoré, Ruben Thoré) | uploaded 
@@ -27,7 +28,8 @@ layout: "translation/single"
 | Persian | Saeed started
 | Polish  | Completed  | Completed
 | Portuguese  | Completed  | Completed
-| Russian  | almost done |
+| Russian  | almost done, by Dmitry Kochetkov, Irina , Natalia Popova | no
+| Spanish | need people
 | Slovak | Not started - 1 volunteer
 | Spanish  | back-translation   | yes, 2nd translator needed, email XXX
 | Swahili  | Yusuph Aron Kafula  and Harriet Melany Nyamvula |
