@@ -19,3 +19,5 @@ use [this Google Doc](https://docs.google.com/spreadsheets/d/1Ye1LA-s3yBzjnxp69A
 | Czech | | https://www.casopis.ochranaprirody.cz/ |  Nina Trubanova
 | Norwegian | | | Bjorn Saetrevik
 | Farsi | Acoustical Society of Iran |  Journal of Acoustical Society of Iran | Saeed Shafiei Sabet |  |  
+
+[Boilerplate outreach letter text](https://docs.google.com/document/d/1uUkyTRW_XZqkOyNOmsM6tKTBAu3_FOXxSr7uBTtDvWg/)
