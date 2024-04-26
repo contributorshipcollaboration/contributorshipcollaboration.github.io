@@ -11,4 +11,6 @@ Losia Lagisz: organization advice, getting Polish and also Wikipedia-listed non-
 
 Bjorn Saestrivik: boilerplate letter, 
 
+Aswathi Surendran: alphabetized language list
+
 Eli Thoré:
