@@ -10,26 +10,26 @@ layout: "translation/single"
 | Afrikaans | Not started - 1 volunteer
 | Afrikaans  | Lizaan ,  |
 | Amharic  | Started by Befkadu Mewded | No | 
+| Bahasa Indonesian | need people
 | Chinese (simplified)  | Completed | Not done
 | Chinese (traditional)  | Completed  | Not done
-| Bahasa Indonesian | need people
 | Czech | Nina Trubokova will start
 | Danish  | completed (Rasmus Pedersen & Rasmus Overmark) | need to put into JSON
 | Dutch | completed (Eli Thoré, Ruben Thoré) | uploaded 
+| Farsi / Persian | Saeed started, looking for another translator
 | French  | waiting on back-translation?  | 
 | German  | Completed  | Completed  | 
 | Greek  | Not started - 2 volunteers |
 | Hindi  | Not started - 2 volunteers |
 | Hungarian  | Completed | Completed | No
 | Japanese  | Completed  | Not done
-| Malayalam | Aswathi Started - 1 volunteer 
+| Malayalam | Aswathi Surendran and Varada Sadanandan Potty, almost done | need to put in JSON
 | Norwegian - Bokmal | completed by Bjørn Sætrevik & Ulvhild Færøvik |
 | Norwegian - Nynorsk  | completed by Bjørn Sætrevik & Ulvhild Færøvik |
-| Persian | Saeed started
 | Polish  | Completed  | Completed
 | Portuguese  | Completed  | Completed
 | Russian  | almost done, by Dmitry Kochetkov, Irina , Natalia Popova | no
-| Spanish | need people
+| Spanish | Riva Quiroga did some, Alfredo Sánchez-Tójar joining
 | Slovak | Not started - 1 volunteer
 | Spanish  | back-translation   | yes, 2nd translator needed, email XXX
 | Swahili  | Yusuph Aron Kafula  and Harriet Melany Nyamvula |
