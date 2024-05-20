@@ -19,7 +19,7 @@ layout: "translation/single"
 | Farsi / Persian | Saeed started, looking for another translator
 | French  | waiting on back-translation?  | 
 | German  | Completed  | Completed  | 
-| Greek  | Not started - 2 volunteers |
+| Greek  | Not started? Elina Takola, Ms. Litsiou, Ms. Daraki |
 | Hindi  | Not started - 2 volunteers |
 | Hungarian  | Completed | Completed | No
 | Japanese  | Completed  | Not done
