@@ -33,6 +33,6 @@ layout: "translation/single"
 | Spanish | Riva Quiroga did some, Alfredo Sánchez-Tójar joining
 | Slovak | Not started - 1 volunteer
 | Spanish  | back-translation   | yes, 2nd translator needed, email XXX
-| Swahili  | Yusuph Aron Kafula  and Harriet Melany Nyamvula |
+| Swahili  | Yusuph Aron Kafula  and Harriet Melany Nyamvula, Boniface |
 | Swedish | Not started - , Eli Thoré?
 | Turkish | Not started - 1 volunteer
