@@ -21,11 +21,12 @@ layout: "translation/single"
 | German  | Completed  | Completed  | 
 | Greek  | Not started? Elina Takola, Ms. Litsiou, Ms. Daraki |
 | Hindi  | Not started - 2 volunteers |
+| Igali | Caleb
 | Hungarian  | Completed | Completed | No
 | Japanese  | Completed  | Not done
 | Malayalam | Aswathi Surendran and Varada Sadanandan Potty, almost done | need to put in JSON
-| Norwegian - Bokmal | completed by Bjørn Sætrevik & Ulvhild Færøvik |
-| Norwegian - Nynorsk  | completed by Bjørn Sætrevik & Ulvhild Færøvik |
+| Norwegian - Bokmal | completed by Bjørn Sætrevik & Ulvhild Færøvik | done
+| Norwegian - Nynorsk  | completed by Bjørn Sætrevik & Ulvhild Færøvik | done
 | Polish  | Completed  | Completed
 | Portuguese  | Completed  | Completed
 | Russian  | almost done, by Dmitry Kochetkov, Irina , Natalia Popova | no
