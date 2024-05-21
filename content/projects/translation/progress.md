@@ -31,7 +31,7 @@ layout: "translation/single"
 | Portuguese  | Completed  | Completed
 | Russian  | almost done, by Dmitry Kochetkov, Irina , Natalia Popova | no
 | Spanish | Riva Quiroga did some, Alfredo Sánchez-Tójar joining
-| Slovak | Not started - 1 volunteer
+| Slovak | Not started - Nina Trubokova | | need another translator
 | Spanish  | back-translation   | yes, 2nd translator needed, email XXX
 | Swahili  | Yusuph Aron Kafula  and Harriet Melany Nyamvula, Boniface |
 | Swedish | Not started - , Eli Thoré?
