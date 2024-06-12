@@ -12,6 +12,7 @@ layout: "translation/single"
 | Amharic  | Started by Befkadu Mewded | No | 
 | Bahasa Indonesian | need people
 | Chinese (simplified)  | Completed | Not done
+| Catalan  | Not started (Marc Bria) | Not done
 | Chinese (traditional)  | Completed  | Not done
 | Czech | Nina Trubokova will start
 | Danish  | completed (Rasmus Pedersen & Rasmus Overmark) | need to put into JSON
