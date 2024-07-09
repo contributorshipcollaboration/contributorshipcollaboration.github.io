@@ -14,9 +14,9 @@ layout: "translation/single"
 | Chinese (simplified)  | Completed | Not done
 | Chinese (traditional)  | Completed  | Not done
 | Czech | Nina Trubokova will start
-| Danish  | completed (Rasmus Pedersen & Rasmus Overmark) | need to put into JSON
+| Danish  | completed (Rasmus Pedersen & Rasmus Overmark) | uploaded
 | Dutch | completed (Eli Thoré, Ruben Thoré) | uploaded 
-| Farsi / Persian | Saeed started, looking for another translator
+| Farsi / Persian | Completed - Saeed Shafiei Sabet and Marziyeh Amini Fard
 | French  | waiting on back-translation?  | 
 | German  | Completed  | Completed  | 
 | Greek  | Not started? Elina Takola, Ms. Litsiou, Ms. Daraki |
