@@ -13,6 +13,7 @@ layout: "translation/single"
 | Arabic | volunteer: Heba Abdelaziz Moussa Abdalla
 | Bahasa Indonesian | need people
 | Chinese (simplified)  | Completed | Not done
+| Catalan  | Not started (Marc Bria) | Not done
 | Chinese (traditional)  | Completed  | Not done
 | Czech | Nina Trubokova will start
 | Danish  | completed (Rasmus Pedersen & Rasmus Overmark) | uploaded
