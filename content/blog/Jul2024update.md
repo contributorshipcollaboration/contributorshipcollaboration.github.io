@@ -37,7 +37,7 @@ Other projects we have initiated include:
 *  Creating a FAQ to answer common questions about CRediT, conceptual, practical, and technical
 *  Advocating that journals start giving CRediT to non-author contributors, mainly people traditionally listed in the Acknowledgments.
 
-We have periodic online hackathons to discuss and work on these issues, follow us on Mastodon to find out about those and more, [@tenzingContrib@neuromatch.social](https://neuromatch.social/@tenzingContrib).
+We have periodic online hackathons to discuss and work on these issues, follow us on Mastodon to find out about those and more, [@tenzingContrib@neuromatch.social](https://neuromatch.social/@tenzingContrib). We will also be submitting a hackathon to this year's online [Big Team Science conference](https://bigteamscienceconference.github.io/), a conference worth checking out!
 
 | ![kigaliWomanPainted](https://github.com/user-attachments/assets/56f3678f-1552-4c7d-848d-d84f95052eb8) |
 |:--:| 
