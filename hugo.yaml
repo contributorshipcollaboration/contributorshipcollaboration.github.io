@@ -78,6 +78,8 @@ params:
       url: /projects/experiment
   - title: About
     url: /about
+  - title: FAQ
+    url: /faq
   - title: Support us
     url: https://opencollective.com/tenzing
     button: true
