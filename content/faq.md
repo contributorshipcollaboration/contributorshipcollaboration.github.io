@@ -5,7 +5,7 @@ sidebar: false
 
 # Why is it important to make information about who did what machine-readable?
 
-To visualize, or quantify, the contributions of a researcher or researchers across a set of articles, one needs comparable things to tally. While some might prefer to stick to free-text essays about one's work, both for metascience for researcher evaluation purposes, the world needs things that can be counted. With a delineated taxonomy such as CRediT used in papers, this can be done. While AI can now read papers, some information still cannot be conveyed without utilizing a widely-used standard.
+To visualize, or quantify, the contributions of a researcher or researchers across a set of articles, one needs comparable things to tally. While some might prefer to stick to free-text essays about one's work, both for metascience for researcher evaluation purposes, the world needs things that can be counted. With a delineated taxonomy such as CRediT used in papers, this can be done. While AI can now read papers, some information is still hard to tally, and will not be taken up, unless a common standard is involved.
 
 # How is CRediT information made machine-readable by journals?
 
