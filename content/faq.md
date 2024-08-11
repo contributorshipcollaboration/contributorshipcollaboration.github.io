@@ -10,3 +10,7 @@ To visualize, or quantify, the contributions of a researcher or researchers acro
 # How is CRediT information made machine-readable by journals?
 
 Most journals use a paper submission system provided by the publisher of the journal. These submission systems are designed to collect the journal article metadata (such as the names and affiliations of the authors, the abstract of the paper) from the corresponding author and store them in a machine-readable file. Most systems use the [Journal Article Tag Suite XML](https://jats.nlm.nih.gov/publishing/1.3/) format to append these metadata in an organized manner to the journal article published online. While the latest JATS 1.3 format allows for recording author contributions according to CRediT in the article metadata not all submission systems collect authors contributions. PLOS journals are collecting this information as metadata through a form. 
+
+# The CRediT categories aren't well-suited for my project; what should I do?
+
+Other schemes exist, such as the [Contributor Roles Ontology](https://github.com/data2health/contributor-role-ontology), which extends CRediT into more specific roles, and the [Taxonomy of Digital Research Activities in the Humanities (TaDiRAH)](https://vocabs.dariah.eu/tadirah/en/). However, within science at least, other schemes unfortunately are not widely used. For reform of CRediT itself, you may wish to [contact the CRediT committee of NISO](https://www.niso.org/standards-committees/credit). 
