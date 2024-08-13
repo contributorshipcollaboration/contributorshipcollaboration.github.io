@@ -14,7 +14,7 @@ There will never be official NISO standard translations, because NISO does not d
 
 Many volunteers came together at our [hackathon at Big Team Science 2023](https://contributorshipcollaboration.github.io/blog/translation/), and subequent hackathons, yielding translations into more than ten languages, including Chinese, Spanish, Japanese, and German.
 
-| ![CRediTmultilingual](https://github.com/user-attachments/assets/e5e2191d-717b-44ba-8e38-f62fe496a8a9) |
+![CRediTmultilingual](https://github.com/user-attachments/assets/e5e2191d-717b-44ba-8e38-f62fe496a8a9)
 
 As we enter the translations in machine-readable form in [this repository](https://github.com/contributorshipcollaboration/credit-translation) 
  for journals to use, our code also renders the translations into human-readable form [here](https://contributorshipcollaboration.github.io/projects/translation/completed/).
