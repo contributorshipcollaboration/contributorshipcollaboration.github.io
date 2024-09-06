@@ -23,4 +23,4 @@ To load the webpage locally for development purposes:
 
 ## Updating the Hugo site, including the translations 
 
-To update the HTML webpages this repo creates (https://contributorshipcollaboration.github.io/), any change made to this repo (which is distinct from the translations repo) will trigger Hugo site to re-render the HTML, including the translation JSONs.
+To update the HTML webpages this repo creates (https://contributorshipcollaboration.github.io/), any change made to this repo (which is distinct from the translations repo) will trigger Hugo site to re-render the HTML, including by using the language translation JSONs.
