@@ -21,6 +21,6 @@ To load the webpage locally for development purposes:
 * Run the site locally by typing `hugo server` in the terminal
 * Open the site through the `http://localhost:1313` address in a browser
 
-## Translations webpage
+## Updating the Hugo site, including the translations 
 
-To trigger the Github action that renders the JSONs into HTML,
+To update the HTML webpages this repo creates (https://contributorshipcollaboration.github.io/), any change made to this repo (which is distinct from the translations repo) will trigger Hugo site to re-render the HTML, including the translation JSONs.
