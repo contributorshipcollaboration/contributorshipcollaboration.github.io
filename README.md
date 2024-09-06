@@ -20,3 +20,7 @@ To load the webpage locally for development purposes:
 * cd into the cloned repository
 * Run the site locally by typing `hugo server` in the terminal
 * Open the site through the `http://localhost:1313` address in a browser
+
+## Translations webpage
+
+To trigger the Github action that renders the JSONs into HTML,
