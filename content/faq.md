@@ -20,3 +20,7 @@ Other schemes exist, such as the [Contributor Roles Ontology](https://github.com
 Contributorship is about documenting who did what, which in principle is orthogonal to authorship and authorship guidelines. However, in practice publishers have made contributorship subsidiary to authorship. That is, only people listed as authors on a paper have the chance to also get CRediT information.
 
 Contributor information need not be subsidiary to authorship. Publishers could start listing other people with CRediT information, people not marked as authors, in the JATS-XML metadata. Then, a wider range of contributors to scholarship would become known, and this information potentially flow into scholarly databases such as CrossRef. However, changes would have to be made to get such databases to support that, and to get universities and other stakeholders to start using that information.
+
+# In the case of single-contributor papers, should there be a contribution statement?
+
+It may seem redundant to have CRediT information or a "who did what" section for single-author papers. However, there is the possibility that some contributors did not qualify for or did not wish to become authors, but it may still be appropriate to name them (for example in an Acknowledgment section). Second, because CRediT metadata will flow into scholarly databases, there will be a gap if the CRediT information for a sole-contributor paper is not provided in that paper.
