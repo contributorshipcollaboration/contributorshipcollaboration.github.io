@@ -17,9 +17,9 @@ Other schemes exist, such as the [Contributor Roles Ontology](https://github.com
 
 # How do authorship and contributorship relate to each other?
 
-Contributorship is about documenting who did what, which in principle is orthogonal to authorship and authorship guidelines. However, in practice publishers have made contributorship subsidiary to authorship. That is, only people listed as authors on a paper have the chance to also get CRediT information.
+Contributorship is about documenting who did what. That principle is independent of the concept and authorship guidelines. In practice, however, publishers typically made contributorship subsidiary to authorship. That is, only people listed as authors have the chance to also get CRediT information.
 
-Contributor information need not be subsidiary to authorship. Publishers could start listing other people with CRediT information, people not marked as authors, in the JATS-XML metadata. Then, a wider range of contributors to scholarship would become known, and this information potentially flow into scholarly databases such as CrossRef. However, changes would have to be made to get such databases to support that, and to get universities and other stakeholders to start using that information.
+But Contributor information need not be subsidiary to authorship. Publishers could start listing other people with CRediT information, people not marked as authors, in their JATS-XML metadata. Then, a wider range of contributors to scholarship would become known, and this information potentially flow into scholarly databases such as CrossRef. However, changes would have to be made to get such databases to support that, and to get universities and other stakeholders to start using that information.
 
 # In the case of single-contributor papers, should there be a contribution statement?
 
