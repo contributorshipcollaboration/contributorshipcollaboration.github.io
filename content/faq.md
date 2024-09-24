@@ -14,3 +14,9 @@ Most journals use a paper submission system provided by the publisher of the jou
 # The CRediT categories aren't well-suited for my project; what should I do?
 
 Other schemes exist, such as the [Contributor Roles Ontology](https://github.com/data2health/contributor-role-ontology), which extends CRediT into more specific roles, and the [Taxonomy of Digital Research Activities in the Humanities (TaDiRAH)](https://vocabs.dariah.eu/tadirah/en/). However, within science at least, other schemes unfortunately are not widely used. For reform of CRediT itself, you may wish to [contact the CRediT committee of NISO](https://www.niso.org/standards-committees/credit). 
+
+# How do authorship and contributorship relate to each other?
+
+Contributorship is about documenting who did what, which in principle is orthogonal to authorship and authorship guidelines. However, in practice publishers have made contributorship subsidiary to authorship. That is, only people listed as authors on a paper have the chance to also get CRediT information.
+
+Contributor information need not be subsidiary to authorship. Publishers could start listing other people with CRediT information, people not marked as authors, in the JATS-XML metadata. Then, a wider range of contributors to scholarship would become known, and this information potentially flow into scholarly databases such as CrossRef. However, changes would have to be made to get such databases to support that, and to get universities and other stakeholders to start using that information.
