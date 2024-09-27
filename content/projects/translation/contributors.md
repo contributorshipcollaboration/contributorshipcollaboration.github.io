@@ -13,4 +13,4 @@ Bjorn Saestrivik: boilerplate letter,
 
 Aswathi Surendran: alphabetized language list
 
-Eli Thoré:
+Eli Thoré: manuscript, coordinating Swahili and possibly Arabic,
