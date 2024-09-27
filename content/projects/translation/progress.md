@@ -9,11 +9,11 @@ layout: "translation/single"
 | ------------- | ------------- | ------------- | ------------- 
 | Afrikaans  | Lizaan , not started  |
 | Amharic  | done by Befkadu Mewded and | Completed | 
-| Arabic | volunteer: Heba Abdelaziz Moussa Abdalla
+| Arabic | Eli Thoré has volunteer
 | Bahasa Indonesian | Desapta
 | Chinese (simplified)  | Completed | Completed
 | Catalan  | Not started (Marc Bria) | Not done
-| Chinese (traditional)  | Completed  | Not done
+| Chinese (traditional)  | Completed  | Completed
 | Czech | Nina Trubokova will start
 | Danish  | completed (Rasmus Pedersen & Rasmus Overmark) | uploaded
 | Dutch | completed (Eli Thoré, Ruben Thoré) | uploaded 
