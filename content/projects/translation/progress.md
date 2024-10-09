@@ -26,7 +26,7 @@ layout: "translation/single"
 | Igali | Caleb
 | Hungarian  | Completed | Completed but not working | No
 | Japanese  | Completed  | Completed
-| Korean | one/two volunteers
+| Korean | translated by  and |
 | Malayalam | Aswathi Surendran and Varada Sadanandan Potty, almost done | need to put in JSON
 | Norwegian - Bokmal | completed by Bjørn Sætrevik & Ulvhild Færøvik | done
 | Norwegian - Nynorsk  | completed by Bjørn Sætrevik & Ulvhild Færøvik | done
