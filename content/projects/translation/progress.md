@@ -9,16 +9,16 @@ layout: "translation/single"
 | ------------- | ------------- | ------------- | ------------- 
 | Afrikaans  | Lizaan , not started  |
 | Amharic  | done by Befkadu Mewded and | Completed | 
-| Arabic | Eli Thoré has volunteer
+| Arabic | Heba created first draft, Omayma next
 | Bahasa Indonesian | Desapta
 | Chinese (simplified)  | Completed | Completed
 | Catalan  | Not started (Marc Bria) | Not done
 | Chinese (traditional)  | Completed  | Completed
-| Czech | Nina Trubokova will start
+| Czech | Nina has started, Radana will start
 | Danish  | completed (Rasmus Pedersen & Rasmus Overmark) | uploaded
 | Dutch | completed (Eli Thoré, Ruben Thoré) | uploaded 
 | Farsi / Persian | Saeed Shafiei Sabet and Marziyeh Amini Fard | Completed
-| French  | David Vaidis & ? first draft done  | 
+| French  | David Vaidis & Amelie? first draft done  | 
 | German  | Completed  | Completed  | 
 | Greek  | First fwd translation done by Elina Takola.  Ms. Litsiou, Ms. Daraki |
 | Hindi  | Not started - 2 volunteers |
