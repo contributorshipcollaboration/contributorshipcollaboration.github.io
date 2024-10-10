@@ -1,4 +1,4 @@
-This repository contains the landing page for the contributorship-collaboration Github organization. The page was built with [hugo](https://gohugo.io/) and it uses a modified version of the [hugo-fresh](https://github.com/StefMa/hugo-fresh) theme.
+This repository creates the [webpage](https://contributorshipcollaboration.github.io/) for the contributorship-collaboration Github organization. The page was built with [hugo](https://gohugo.io/) and it uses a modified version of the [hugo-fresh](https://github.com/StefMa/hugo-fresh) theme.
 
 # Contributorship Collaboration
 
