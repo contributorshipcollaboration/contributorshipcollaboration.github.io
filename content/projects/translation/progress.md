@@ -14,6 +14,7 @@ layout: "translation/single"
 | Chinese (simplified)  | Completed | Completed
 | Catalan  | Not started (Marc Bria) | Not done
 | Chinese (traditional)  | Completed  | Completed
+| Croatian ?
 | Czech | Nina has started, Radana will start
 | Danish  | completed (Rasmus Pedersen & Rasmus Overmark) | uploaded
 | Dutch | completed (Eli Thoré, Ruben Thoré) | uploaded 
@@ -39,3 +40,4 @@ layout: "translation/single"
 | Swahili  | Yusuph Aron Kafula  and Harriet Melany Nyamvula, Boniface |
 | Swedish | Not started - , Eli Thoré?
 | Turkish | Not started - 1 volunteer
+| Ukrainian | who?
