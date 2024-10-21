@@ -40,4 +40,4 @@ layout: "translation/single"
 | Swahili  | Yusuph Aron Kafula  and Harriet Melany Nyamvula, Boniface |
 | Swedish | Not started - , Eli Thoré?
 | Turkish | Not started - 1 volunteer
-| Ukrainian | who?
+| Ukrainian | first draft created by Avhustyn Terpeliuk | | Second translator needed
