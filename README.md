@@ -24,4 +24,4 @@ To load the webpage locally for development purposes:
 ## Updating the Hugo site, including the translations 
 
 To update the [HTML site](https://contributorshipcollaboration.github.io/) that this repo creates:
-  * make any change  to this repo (which is distinct from the translations repo). That will trigger Hugo to re-render the HTML, including using the language translation JSONs to create the HTML translation webpages.
+  * make any change  to this repo (which is distinct from the translations repo). That will trigger Hugo to re-render the HTML, including using the  translations of CRediT encoded in [the JSON files](https://github.com/contributorshipcollaboration/credit-translation/tree/main/translations) to create the HTML translation webpages.
