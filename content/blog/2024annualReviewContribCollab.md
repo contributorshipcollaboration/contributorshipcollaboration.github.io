@@ -62,6 +62,6 @@ Oh, another way to help would be to just [give money to the project](https://ope
 <!-- ![wattlebird](/images/wattleb.JPG) -->
 
 
-| ![wattlebird](https://github.com/contributorshipcollaboration/contributorshipcollaboration.github.io/blob/master/static/images/wattleb.JPG) |
+| ![wattlebird](https://github.com/contributorshipcollaboration/contributorshipcollaboration.github.io/blob/master/static/images/wattleb35pct.JPG) |
 |:--:| 
 | Photo: CC-BY Alex Holcombe |
