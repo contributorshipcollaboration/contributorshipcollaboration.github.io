@@ -68,4 +68,4 @@ Oh, another way to help would be to just [give money to the project](https://ope
 
 | ![wattlebird](wattleb.JPG) |
 |:--:| 
-| Wattlebird in Sydney, Australia. Photo: Alex Holcombe |
+| A wattlebird in Sydney, Australia. Photo: Alex Holcombe |
