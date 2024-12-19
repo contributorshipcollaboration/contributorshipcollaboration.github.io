@@ -59,7 +59,9 @@ We have periodic videocalls to discuss and work on these issues, follow us [on M
 Oh, another way to help would be to just [give money to the project](https://opencollective.com/tenzing) 💰😀 .
 
 <!--content/blog/wattleb.JPG-->
+<!-- ![wattlebird](/images/wattleb.JPG) -->
 
-| ![wattlebird](/images/wattleb.JPG) |
+
+| ![wattlebird](https://github.com/contributorshipcollaboration/contributorshipcollaboration.github.io/blob/master/static/images/wattleb.JPG) |
 |:--:| 
 | Photo: CC-BY Alex Holcombe |
