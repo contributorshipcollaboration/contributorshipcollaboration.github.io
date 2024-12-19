@@ -15,15 +15,15 @@ The first event of our Contributorship Collaboration was a hackathon at the Octo
 
 ![CRediTmultilingual](https://github.com/user-attachments/assets/e5e2191d-717b-44ba-8e38-f62fe496a8a9)
 
-Following the hackathon, through word of mouth and social media we attracted additional  volunteer scholars, and we collaborated via monthly Zooms, together with email and Slack. Besides creating a nice community :blush:, our main achievements are:
+Following the hackathon, through word of mouth and social media we attracted additional  volunteer scholars, and we collaborated via monthly Zooms, together with email and Slack. In addition to creating a nice community :blush:, our main achievements are:
 
 *   Creating a [website](https://contributorshipcollaboration.github.io/projects/translation/) that publishes our translations in
     *   a machine-readable JSON metadata schema that we created
     *   renders the JSON files into a human-readable version
 
-*   With multiple fluent volunteers in each language, drafting, finalizing, and publishing translations of CRediT into Amharic 🇪🇹, Chinese - simplified 🇨🇳, Chinese - traditional 🇹🇼, Czech 🇨🇿, Danish 🇩🇰, Dutch 🇳🇱, Farsi 🇮🇷, French 🇫🇷, German 🇩🇪, Greek 🇬🇷, Japanese 🇯🇵, Korean 🇰🇷, Norwegian - Bokmål and Nynorsk 🇳🇴, Polish 🇵🇱, Portuguese 🇵🇹, Russian 🇷🇺, and Spanish 🇪🇸
+*   Drafting, finalizing, and publishing translations of CRediT into Amharic 🇪🇹, Chinese - simplified 🇨🇳, Chinese - traditional 🇹🇼, Czech 🇨🇿, Danish 🇩🇰, Dutch 🇳🇱, Farsi 🇮🇷, French 🇫🇷, German 🇩🇪, Greek 🇬🇷, Japanese 🇯🇵, Korean 🇰🇷, Norwegian - Bokmål and Nynorsk 🇳🇴, Polish 🇵🇱, Portuguese 🇵🇹, Russian 🇷🇺, and Spanish 🇪🇸
 
-- Drafting additional translations into Hungarian 🇭🇺, Korean 🇰🇷, Malay 🇲🇾, Malayalam 🇮🇳, Ukrainian 🇺🇦, and a few other languages, to be finalized later.
+- Drafting additional translations into Hungarian 🇭🇺, Korean 🇰🇷, Malay 🇲🇾, Malayalam 🇮🇳, Ukrainian 🇺🇦, and a few other languages, to be finalized later. Translations typically involve at least two fluent speakers.
 
 ## Outreach and education
 
