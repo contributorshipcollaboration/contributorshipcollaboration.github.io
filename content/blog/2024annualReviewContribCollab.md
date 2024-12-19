@@ -62,4 +62,4 @@ Oh, another way to help would be to just [give money to the project](https://ope
 
 | ![wattlebird](wattleb.JPG) |
 |:--:| 
-| Photo: Alex Holcombe |
+| Photo: CC-BY Alex Holcombe |
