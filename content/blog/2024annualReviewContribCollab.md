@@ -60,6 +60,6 @@ Oh, another way to help would be to just [give money to the project](https://ope
 
 <!--content/blog/wattleb.JPG-->
 
-| ![wattlebird](wattleb.JPG) |
+| ![wattlebird](wattleb35pct.JPG) |
 |:--:| 
 | Photo: CC-BY Alex Holcombe |
