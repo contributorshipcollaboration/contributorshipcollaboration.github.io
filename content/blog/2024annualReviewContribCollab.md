@@ -13,11 +13,7 @@ The first event of our Contributorship Collaboration was a hackathon at the Octo
 
 ## Languages translated
 
-BELOW IS multilingual image
-
 ![CRediTmultilingual](https://github.com/user-attachments/assets/e5e2191d-717b-44ba-8e38-f62fe496a8a9)
-
-![CRediT multilingual](../translations/CRediTmultilingual.png)
 
 Following the hackathon, through word of mouth and social media we attracted additional  volunteer scholars, and we collaborated via monthly Zooms, together with email and Slack. Besides creating a nice community :blush:, our main achievements are:
 
