@@ -1,5 +1,5 @@
 ---
-title: The year of languages
+title: A Year of Languages
 sidebar: false
 description: 2024 in review
 date: 2024-12-18
