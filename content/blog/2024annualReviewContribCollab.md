@@ -13,7 +13,7 @@ The first real event of the Contributorship Collaboration was a hackathon we org
 
 ![CRediTmultilingual](https://github.com/user-attachments/assets/e5e2191d-717b-44ba-8e38-f62fe496a8a9)
 
-Following the hackathon, through word of mouth and social media we attracted additional  volunteer scholars, and we collaborated via monthly Zooms, together with email and Slack. In addition to creating a nice community 😊, our main achievements are:
+Following the hackathon, additional volunteer scholars joined us, and we collaborated via monthly Zooms, as well as through email and Slack. In addition to creating a nice community 😊, our main achievements are:
 
 *   Creating a [website](https://contributorshipcollaboration.github.io/projects/translation/) that publishes our translations in
     *   a machine-readable JSON metadata schema that we created
