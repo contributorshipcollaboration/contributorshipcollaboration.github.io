@@ -5,11 +5,11 @@ description: 2024 in review
 date: 2024-12-18
 ---
 
-The Contributorship Collaboration was born less than a year and a half ago. Our aim is to improve the recognition of the people who contribute to science, getting beyond traditional author lists that don't indicate who did what.
+The Contributorship Collaboration was born about a year and a half ago, with the aim of improving the recognition of the people who contribute to science, getting beyond traditional author lists that don't indicate who did what.
 
-This issue has been highlighted by the "Hidden REF" project in the UK, which points out that "The ways in which research impact is judged overlooks many of the people who are vital to the success of research."  The Hidden REF project awarded [CRediT](https://en.wikipedia.org/wiki/Contributor_Roles_Taxonomy), a taxonomy that helps indicate who did what in scientific articles, [a commendation](https://credit.niso.org/updates/credit-recognised-in-uk-hidden-ref-awards/) this year.
+Many have highlighted this issue before, including the "Hidden REF" project in the UK; as they write, "The ways in which research impact is judged overlooks many of the people who are vital to the success of research."  A few months ago the Hidden REF project awarded [a commendation](https://credit.niso.org/updates/credit-recognised-in-uk-hidden-ref-awards/) to [CRediT](https://en.wikipedia.org/wiki/Contributor_Roles_Taxonomy), a taxonomy that helps indicate who did what in scientific articles. Much of our work has focused on promoting the use of CRediT.
 
-The first event of our Contributorship Collaboration was a hackathon at the October 2023 Big Team Science conference to translate [CRediT](https://en.wikipedia.org/wiki/Contributor_Roles_Taxonomy)  from English into other languages. For more about why such translations are needed, see our [post on the NISO CRediT site](https://credit.niso.org/updates/translating-credit-into-other-languages/).
+The first real event of the Contributorship Collaboration was a hackathon we organized at the October 2023 Big Team Science conference to translate CRediT from English into other languages. For more about why such translations are needed, see our [post on the NISO CRediT site](https://credit.niso.org/updates/translating-credit-into-other-languages/).
 
 ![CRediTmultilingual](https://github.com/user-attachments/assets/e5e2191d-717b-44ba-8e38-f62fe496a8a9)
 
