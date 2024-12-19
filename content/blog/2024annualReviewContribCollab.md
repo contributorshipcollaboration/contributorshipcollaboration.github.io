@@ -64,5 +64,4 @@ Oh, another way to help would be to just [give money to the project](https://ope
 <!-- ![](wattleb35pct.JPG) -->
 
 | ![wattleb45pct](https://github.com/user-attachments/assets/f4ce95e0-775f-45cc-bf14-00ce57550609) |
-| |
-| Photo: CC-BY Alex Holcombe |
+ Photo: CC-BY Alex Holcombe 
