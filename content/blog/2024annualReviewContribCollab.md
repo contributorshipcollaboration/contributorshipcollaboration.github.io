@@ -54,7 +54,7 @@ Ongoing projects include:
 
 - You can follow our progress via [Mastodon](https://neuromatch.social/@tenzingContrib) as well as this blog.
 
-We have periodic videocalls to discuss and work on these issues, follow us [on Mastodon](https://neuromatch.social/@tenzingContrib) for announcements. We can also meet in person at [Metascience 2025](https://metascience.info/)(London, in June), the [Society for the Improvement of Psychological Science](https://www.improvingpsych.org/SIPS2025/)(Budapest, in June), and the [Association for Interdisciplinary Meta-research and Open Science](https://aimos.community/)(Australia (Sydney?) in October).
+We have periodic videocalls to discuss and work on these issues, follow us [on Mastodon](https://neuromatch.social/@tenzingContrib) for announcements. We can also meet in person at [Metascience 2025](https://metascience.info/)(London, in June), the [Society for the Improvement of Psychological Science](https://www.improvingpsych.org/SIPS2025/)(Budapest, in June), and the [Association for Interdisciplinary Meta-research and Open Science](https://aimos.community/)(October).
 
 Oh, another way to help would be to just [give money to the project](https://opencollective.com/tenzing) 💰 .
 
