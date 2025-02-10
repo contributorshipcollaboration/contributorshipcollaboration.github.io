@@ -39,7 +39,7 @@ params:
     # Main hero title
     title: Document contributors
     # Hero subtitle (optional)
-    subtitle: Report who did what in journal articles and other research outputs using CRediT
+    subtitle: Report who did what in journal articles and other research outputs
     # Button text
     buttontext: Projects
     # Where the main hero button links to
