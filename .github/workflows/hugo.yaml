@@ -45,6 +45,7 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
+          
       - name: Fetch Markdown Files
         run: |
           # Code to fetch and copy external Markdown files of CRediT translations
@@ -52,11 +53,13 @@ jobs:
           git clone https://github.com/contributorshipcollaboration/credit-translation.git external-content
           cp external-content/md_files/* content/projects/translation/translations/
           rm -rf external-content # Cleanup
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
@@ -66,11 +69,14 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"          
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+            --baseURL "${{ steps.pages.outputs.base_url }}/"  
+
+      - name: Upload artifact manually (v4-compliant)
+        uses: actions/upload-artifact@v4
         with:
+          name: github-pages
           path: ./public
+          retention-days: 1
 
   # Deployment job
   deploy:
