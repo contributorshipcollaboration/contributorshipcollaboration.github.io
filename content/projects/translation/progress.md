@@ -8,16 +8,11 @@ layout: "translation/single"
 | Language  | Translation Status | Github status | Help needed? 
 | ------------- | ------------- | ------------- | ------------- 
 | Afrikaans  | Lizaan , not started  |
-| Amharic  | done by Befkadu Mewded and | Completed | 
-| Arabic | Heba created first draft, Omayma next
-| Bahasa Indonesian | Desapta
-| Chinese (simplified)  | Completed | Completed
-| Catalan  | Not started (Marc Bria) | Not done
-| Chinese (traditional)  | Completed  | Completed
-| Croatian ?
+| Arabic | Heba created first draft, Omayma back-translation | waiting on conferral meeting
+| Bahasa Indonesian | Desapta , who was recruiting second person
+| Croatian | Antica and Anita completed | uploaded but not deploying?
 | Czech | Nina has started, Radana will start
 | Danish  | completed (Rasmus Pedersen & Rasmus Overmark) | uploaded
-| Dutch | completed (Eli Thoré, Ruben Thoré) | uploaded 
 | Farsi / Persian | Saeed Shafiei Sabet and Marziyeh Amini Fard | Completed
 | French  | David Vaidis & Amelie? first draft done  | 
 | German  | Completed  | Completed  | 
@@ -26,7 +21,6 @@ layout: "translation/single"
 | Italian | one+ volunteer
 | Igali | Caleb
 | Hungarian  | Completed | Completed but not working | No
-| Japanese  | Completed  | Completed
 | Korean | translated by  and |
 | Malayalam | Aswathi Surendran and Varada Sadanandan Potty, almost done | need to put in JSON
 | Norwegian - Bokmal | completed by Bjørn Sætrevik & Ulvhild Færøvik | done
