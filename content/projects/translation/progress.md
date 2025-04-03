@@ -10,13 +10,18 @@ layout: "translation/single"
 | Afrikaans  | Lizaan , not started  |
 | Arabic | Heba created first draft, Omayma back-translation | waiting on conferral meeting
 | Bahasa Indonesian | Desapta , who was recruiting second person
+| Bulgarian |
 | Czech | Nina has started, Radana will start
+| Finnish | 
 | Hindi  | Not started - 2 volunteers |
 | Italian | Lorenzo translated, Vittoria back-translated, emailed about conferral 29Mar25
 | Igali | Caleb
 | Hungarian  | Completed | Completed but not working | No
+| Romanian | Completed | JSON file 
+| Serbian? |
 | Slovak | Not started - Nina Trubokova | | need another translator
 | Swahili  | Yusuph Aron Kafula  and Harriet Melany Nyamvula, Boniface |
 | Swedish | Not started - , Eli Thoré?
 | Turkish | Not started - 1 volunteer
-| Ukrainian | first draft created by Avhustyn Terpeliuk | | Second translator needed
+| Ukrainian | first draft created by Avhustyn Terpeliuk | |  Irina(?), Avhustyn's teacher?
+| Vietnamese | done by one person but need second? |
