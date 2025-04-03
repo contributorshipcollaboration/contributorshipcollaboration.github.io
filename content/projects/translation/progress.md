@@ -9,7 +9,7 @@ layout: "translation/single"
 | ------------- | ------------- | ------------- | ------------- 
 | Afrikaans  | Lizaan , not started  |
 | Arabic | Heba created first draft, Omayma back-translation | waiting on conferral meeting
-| Bahasa Indonesian | Desapta , who was recruiting second person
+| Bahasa Indonesian | Desapta has multiple people 3Apr25
 | Bulgarian |
 | Czech | Nina has started, Radana will start
 | Finnish | 
