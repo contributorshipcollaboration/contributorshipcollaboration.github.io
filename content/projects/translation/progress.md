@@ -16,7 +16,7 @@ layout: "translation/single"
 | Hindi  | Not started - 2 volunteers |
 | Italian | Lorenzo translated, Vittoria back-translated, emailed about conferral 29Mar25
 | Igali | Caleb
-| Hungarian  | Completed | Completed but not working | No
+| Hungarian  | Completed | Disappeared from Github but Dominik found a blank one in Github history | No
 | Serbian? |
 | Slovak | Not started - Nina Trubokova | | need another translator
 | Swahili  | Yusuph Aron Kafula  and Harriet Melany Nyamvula, Boniface |
