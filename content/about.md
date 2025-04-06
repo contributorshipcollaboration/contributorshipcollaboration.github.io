@@ -7,7 +7,7 @@ The goal of the _Contributorship Collaboration_ is to make curating and reportin
 
 Our first tool, the [tenzing.club](tenzing.club) web app and associated R package were developed to facilitate researcher reporting of contributorship information in manuscripts and journal articles. tenzing.club is named after the Nepali-Indian Sherpa Tenzing Norgay, who was one of the two individuals who reached the summit of Mount Everest for the first time. Despite his essential contribution, traditionally the achievement was less credited to him than to his partner, the New Zealand mountaineer Edmund Hillary.
 
-We have moved on to several additional projects, which you can find [here](https://contributorshipcollaboration.github.io/projects/), with updates in [the blog](https://contributorshipcollaboration.github.io/blog/).
+We have additional projects such as creating translations of CRediT for use by journals and publishers, which you can find [here](https://contributorshipcollaboration.github.io/projects/), with updates in [the blog](https://contributorshipcollaboration.github.io/blog/).
 
 ## Featured project contributors
 
