@@ -1,6 +1,6 @@
 ---
 title: Contributions
-description: attempting List of all contributions and the person who contributed them
+description: List of contributors and their contributions
 order: 5
 layout: "translation/single"
 ---
