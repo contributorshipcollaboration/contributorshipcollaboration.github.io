@@ -1,4 +1,4 @@
-This repository creates  [webpages](https://contributorshipcollaboration.github.io/) for the contributorship-collaboration organization, using [hugo](https://gohugo.io/) with a modification of the [hugo-fresh](https://github.com/StefMa/hugo-fresh) theme.
+Using Github Pages and Actions, this repository creates  [webpages](https://contributorshipcollaboration.github.io/) for the contributorship-collaboration organization, using [hugo](https://gohugo.io/) with a modification of the [hugo-fresh](https://github.com/StefMa/hugo-fresh) theme.
 
 # Contributorship Collaboration
 
