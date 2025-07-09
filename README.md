@@ -2,7 +2,7 @@ Using Github Pages and Actions, this repository creates  [webpages](https://cont
 
 # Contributorship Collaboration
 
-The goal of the __Contributorship Collaboration__ is to make curating and reporting scholarly contributions easier and more transparent, and to pursue other ways to improve the recognition of contributions to scholarship.
+The projects of the __Contributorship Collaboration__ try to make curating and reporting scholarly contributions easier and more transparent. We also pursue other ways to improve the recognition of contributions to scholarship.
 
 [CRediT](http://credit.niso.org/) (Contributor Roles Taxonomy) is one way to document contributions and is used by hundreds of journals. CRediT is a
 taxonomy of 14 categories of contributions to scientific scholarly output. Each researcher can indicate which category they contributed to
