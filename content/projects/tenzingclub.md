@@ -1,9 +1,9 @@
 ---
-title: "tenzing.club"
+title: "tenzing"
 sidebar: false
 githublink: https://github.com/marton-balazs-kovacs/tenzing
 link: http://tenzing.club/
-description: Document and report your contributors' information with CRediT.
+description: Document and report project contributors' information with CRediT.
 ---
 
 _[tenzing](https://tenzing.club)_, a simple web app, is designed for research scholars. It helps manage
@@ -23,7 +23,7 @@ the first time. Despite his essential contribution, he received less
 credit than his partner, the New Zealand mountaineer Edmund Hillary.
 
 
-_tenzing.club_ can:
+_[tenzing](https://tenzing.club)_ can:
 
 -   read all the necessary contributorship information from one file
     (.csv, .tsv or .xlsx)
