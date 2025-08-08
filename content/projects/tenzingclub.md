@@ -6,10 +6,11 @@ link: http://tenzing.club/
 description: Document and report your contributors' information with CRediT.
 ---
 
-_tenzing.club_, an easy-to-use web-based app, allows researchers to generate
-reports about the contribution of each team member on a project using
-CRediT, for insertion into their manuscripts and for publishers to
-potentially incorporate into article metadata.
+_[tenzing](https://tenzing.club)_, a simple web app, is designed for research scholars. It helps manage
+project contributor info, and generates
+reports about team member contributions using
+CRediT, for insertion into manuscripts, and for publishers to
+potentially incorporate into article metadata. 
 
 [CRediT](http://credit.niso.org/) (Contributor Roles Taxonomy) is a
 taxonomy of 14 categories of contributions to scientific scholarly
