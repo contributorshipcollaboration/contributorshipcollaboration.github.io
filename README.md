@@ -8,7 +8,7 @@ The purpose of the __Contributorship Collaboration__ is to improve the recogniti
 taxonomy of 14 categories of contributions to scientific scholarly output. Each researcher can indicate which category they contributed to
 in a scholarly project.
 
-First we developed the *tenzing* [Shiny app](tenzing.club) and associated R package, were developed to facilitate researcher reporting of contributorship information in manuscripts and journal articles. tenzing is named after the Nepali-Indian Sherpa Tenzing Norgay, who was one of the two individuals who reached the summit of Mount Everest for the first time. Despite his essential contribution, the achievement may not be credited to him as much as he deserves relative to his partner, the New Zealand mountaineer Edmund Hillary.
+Our first project was the *tenzing* [Shiny app](tenzing.club) and associated R package, to facilitate researcher reporting of contributorship information in manuscripts and journal articles. tenzing is named after the Nepali-Indian Sherpa Tenzing Norgay, who was one of the two individuals who reached the summit of Mount Everest for the first time. Despite his essential contribution, the achievement may not be credited to him as much as he deserves relative to his partner, the New Zealand mountaineer Edmund Hillary.
 
 ## Development mode
 
