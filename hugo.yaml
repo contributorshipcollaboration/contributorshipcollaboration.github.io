@@ -168,6 +168,10 @@ params:
       quote: Tenzing turns a horrible academic chore into an easy task.
       job: Researcher
       img: 2
+    - name: Biljana Gjoneska
+      quote: I have made my contribution in support of the CRediT taxonomy, because I heavily rely on it as part of my involvement in many Big Team Science (BTS) collaborations, including an EU funded project on Climate Change Impact on Mental Health in Europe.
+      job: Researcher
+      img: 1    
     - name: Barnabas Szaszi
       quote: Tenzing helps me manage the contributors on my big-team science project which would be otherwise excruciating!
       job: Researcher
