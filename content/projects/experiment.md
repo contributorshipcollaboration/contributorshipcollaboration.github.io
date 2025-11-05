@@ -10,3 +10,5 @@ Adding CRediT (the Contributor Roles Taxonomy) to the most popular open-source a
 We hypothesize that the implementation of CRediT in OJS will result in more scientific research conducted by larger and more diverse teams. Thus, in a follow-up evalutation study we plan to evaluate this hypothesis by investigating the number of authors per journal article and number of countries represented across the associated journals compared to others. 
 
 This project is funded by the [Experiment Foundation](https://www.experiment.foundation/).
+
+Update November 2025: The plugin for OJS was completed a while ago, and CRediT has also been [implemented in the core of OJS](https://github.com/pkp/pkp-lib/issues/857#issuecomment-3360123375) for its next major release, slated for sometime in 2026.
