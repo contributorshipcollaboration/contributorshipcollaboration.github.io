@@ -7,7 +7,7 @@ date: 2025-11-16
 
 Our free website, [tenzing](tenzing.club), is used by many researchers to manage co-author information such as affiliations and CRediT contributions, and to generate manuscript title pages. Thanks to our new release, now you can also use tenzing to generate acknowledgments sections. 
 
-![](/images/favicon.png)
+![](/images/favicon.png){ width=20% }
 
 ### What Does It Do?
 
