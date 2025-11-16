@@ -2,7 +2,7 @@
 title: Tenzing update - Acknowledgments
 sidebar: false
 description: Tenzing release 0.4.1
-date: 2025-16-11
+date: 2025-11-16
 ---
 
 # Tenzing update, including our new Acknowledgments feature
