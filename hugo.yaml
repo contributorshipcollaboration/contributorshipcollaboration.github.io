@@ -68,6 +68,8 @@ params:
     sublinks:
     - title: tenzing.club
       url: /projects/tenzingclub
+    - title: acknowledgments
+      url: /projects/acknowledgments
     - title: translation
       url: /projects/translation
     - title: pasang
