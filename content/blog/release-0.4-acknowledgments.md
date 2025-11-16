@@ -7,6 +7,8 @@ date: 2025-11-16
 
 Our free website, [tenzing](tenzing.club), is used by many researchers to manage co-author information such as affiliations and CRediT contributions, and to generate manuscript title pages. Thanks to our new release, now you can also use tenzing to generate acknowledgments sections. 
 
+![](/images/favicon.png)
+
 ### What Does It Do?
 
 The acknowledgments feature allows researchers to systematically document and report the contributions of non-author contributors. Tenzing now enables you to:
@@ -82,5 +84,5 @@ devtools::install_github("marton-balazs-kovacs/tenzing")
 
 *Tenzing is an open-source project released under the MIT license. The project is maintained by Marton Kovacs, Alex O. Holcombe, and others.*
 
-![](static/images/goose35pct.jpg)
+![](/images/goose35pct.jpg)
 CC-BY Alex O. Holcombe
