@@ -1,4 +1,4 @@
-# Acknowledgments and a few other new tenzing features
+# Tenzing: The acknowledgments feature, and some minor improvements
 
 Most use [tenzing](tenzing.club) to manage co-author information such as affiliations and CRediT contributions, and to generate manuscript title pages. Now you can also use tenzing to generate acknowledgments sections. 
 
@@ -35,11 +35,11 @@ Such individuals often make dozens of small but essential contributions across m
 In the future, we hope that publishers will include formal metadata, using JATS-XML, to make the identities of individuals in acknowledgments clear, in a way that will make it into databases.
 
 
-For more detail about the rationale behind including acknowledgments in tenzing and our broader vision for boosting recognition of acknowledgees, see our preprint: [Improving Acknowledgments Sections to Better Credit Research Contributors](https://osf.io/preprints/metaarxiv/t2uwe_v1).
+For more detail about the rationale behind including acknowledgments in tenzing and our broader vision for boosting recognition of acknowledgees, see our preprint, [Improving Acknowledgments Sections to Better Credit Research Contributors](https://osf.io/preprints/metaarxiv/t2uwe_v1).
 
-## Other tenzing Improvements
+## Other improvements
 
-Beyond the acknowledgments feature, this release provides several enhancements:
+Beyond the acknowledgments feature, this release of [tenzing](tenzing.club) provides several enhancements:
 
 ### Enhanced Contributor Lists
 - **Choose between initials or full names** for contributors
