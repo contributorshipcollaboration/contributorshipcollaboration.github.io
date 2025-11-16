@@ -84,5 +84,5 @@ devtools::install_github("marton-balazs-kovacs/tenzing")
 
 *Tenzing is an open-source project released under the MIT license. The project is maintained by Marton Kovacs, Alex O. Holcombe, and others.*
 
-![](images/goose35pct.jpg)
+![](static/images/goose35pct.jpg)
 CC-BY Alex O. Holcombe
