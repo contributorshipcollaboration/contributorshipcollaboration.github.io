@@ -5,9 +5,7 @@ description: Tenzing release 0.4.1
 date: 2025-11-16
 ---
 
-# Tenzing update, including our new Acknowledgments feature
-
-Most use [tenzing](tenzing.club) to manage co-author information such as affiliations and CRediT contributions, and to generate manuscript title pages. Now you can also use tenzing to generate acknowledgments sections. 
+Our free website, [tenzing](tenzing.club), is used by many researchers to manage co-author information such as affiliations and CRediT contributions, and to generate manuscript title pages. Thanks to our new release, now you can also use tenzing to generate acknowledgments sections. 
 
 ### What Does It Do?
 
