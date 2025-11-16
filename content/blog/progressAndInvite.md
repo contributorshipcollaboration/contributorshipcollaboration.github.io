@@ -34,7 +34,7 @@ We'll announce another co-working call to jump-start further translations, and o
 
 Keep abreast of all our CRediT-related activities by following us on Mastodon at [@tenzingContrib@neuromatch.social](https://neuromatch.social/@tenzingContrib).
 
-| ![kookaburra](https://github.com/contributorshipcollaboration/contributorshipcollaboration.github.io/assets/886094/8e367ad9-d866-48e0-ba66-842fdd768b48) | 
+| ![kookaburra](https://github.com/contributorshipcollaboration/contributorshipcollaboration.github.io/assets/886094/8e367ad9-d866-48e0-ba66-842fdd768b48){ width=300px } | 
 |:--:| 
-| Photo: Alex Holcombe |
+| Photo: CC-BY Alex Holcombe |
 
