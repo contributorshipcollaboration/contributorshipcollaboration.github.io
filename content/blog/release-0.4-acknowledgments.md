@@ -64,13 +64,11 @@ Two new columns have been added to the contributors table template:
 - CRediT taxonomy role names are now standardized in the contributors table
 - Each role includes URLs directing to the official taxonomy documentation
 
-## Use it today
+## Using tenzing
 
 Whether you're preparing a manuscript, planning a new research project, or ensuring your entire team gets proper credit, tenzing might help. 
 
-Your colleagues, collaborators, and all those who make your research possible deserve to be seen.
-
-Visit [tenzing.club](https://tenzing.club/) to use tenzing directly in your browser.
+Visit [tenzing.club](https://tenzing.club/) to use tenzing in your browser.
 
 If you prefer to use it locally or as an R package: 
 
