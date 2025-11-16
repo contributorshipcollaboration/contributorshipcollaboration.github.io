@@ -1,8 +1,8 @@
 ---
-title: "Acknowledgments"
+title: Acknowledgments
 sidebar: false
 githublink: https://github.com/marton-balazs-kovacs/tenzing
-link: http://tenzing.club/
+link: https://tenzing.club/
 description: Enhance the credit received by people listed in article Acknowledgments
 ---
 
