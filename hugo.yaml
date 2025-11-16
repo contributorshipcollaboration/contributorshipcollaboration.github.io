@@ -20,7 +20,8 @@ markup:
   goldmark:
     renderer:
       unsafe: true # Allows you to write raw html in your md files
-    parser.attribute: true #Allows e.g. resizing of images with {width=50%}
+    parser:
+      attribute: true # Allows e.g. resizing of images with {width=50%}
 
 params:
   # tenzing-club params
