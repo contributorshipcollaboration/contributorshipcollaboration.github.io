@@ -20,7 +20,7 @@ The acknowledgments feature allows researchers to systematically document and re
 
 ## Why This Matters
 
-We have done this as part of our broader project to enhance the recognition that individuals who aren't co-authors receive.
+We have done this as part of our broader [project](https://contributorshipcollaboration.github.io/projects/acknowledgments/) to enhance the recognition that individuals who aren't co-authors receive.
 
 ### Surfacing the Hidden Contributors
 
