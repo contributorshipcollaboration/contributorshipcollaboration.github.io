@@ -5,7 +5,7 @@ description: Tenzing release 0.4.1
 date: 2025-11-16
 ---
 
-[Tenzing](tenzing.club), our free website, is used by many researchers to manage co-author information such as affiliations and CRediT contributions, and to generate manuscript title pages. Thanks to our new release, now you can also use tenzing to generate acknowledgments sections. 
+[Tenzing](tenzing.club), our free open-source website, is used by many researchers to manage co-author information such as affiliations and CRediT contributions, and to generate manuscript title pages. Thanks to our new release, now you can also use tenzing to generate acknowledgments sections. 
 
 ![](/images/favicon35pct.png)
 
@@ -43,26 +43,6 @@ In the future, we hope that publishers will include formal metadata, using JATS-
 
 
 For more detail about the rationale behind including acknowledgments in tenzing and our broader vision for boosting recognition of acknowledgees, see our preprint, [Improving Acknowledgments Sections to Better Credit Research Contributors](https://osf.io/preprints/metaarxiv/t2uwe_v1).
-
-## Other improvements
-
-Beyond the acknowledgments feature, this release of [tenzing](tenzing.club) provides several enhancements:
-
-### Enhanced Contributor Lists
-- **Choose between initials or full names** for contributors
-- **List contributions by CRediT taxonomy** directly after contributor names
-
-### Improved Data Management
-- **Validation improvements**: Review your contributors table within the app even if it doesn't pass all validation checks
-
-### Expanded Metadata Support
-Two new columns have been added to the contributors table template:
-- **ORCID iD**: Link contributors, both co-authors and acknowledgees, to their unique researcher identifiers  
-- **Funding**: Document which contributors received which funding sources, and generate formatted funding acknowledgment sections
-
-### Better Documentation
-- CRediT taxonomy role names are now standardized in the contributors table
-- Each role includes URLs directing to the official taxonomy documentation
 
 ## Using tenzing
 
