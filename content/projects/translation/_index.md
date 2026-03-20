@@ -11,7 +11,7 @@ CRediT is a NISO standard for indicating who did what in the projects associated
 Our translations into over 35 languages are in machine-readable form in [this repository](https://github.com/contributorshipcollaboration/credit-translation) 
  for journals to use. Our code renders them into human-readable form [here](https://contributorshipcollaboration.github.io/projects/translation/completed/).
 
-If you use one of our translations, please consider citing our preprint, now under review by [MetaROR](MetaROR.org): Holcombe, A. O., Kovacs, M., Lagisz, M., Sætrevik, B., Pollo, P., Kochetkov, D., Pedersen, R., Mićunović, D., Mewded, B., Sabet, S. S., Færøvik, U., Yu, W. K., Vaidis, D. C., Santana, E. M., Trubanová, N., Varga, M. A., Surendran, A., Čulina, A., Akogwu, C. O., … Popova, N. (2025). Facilitating multilingual research publishing: Translations of the Contributor Roles Taxonomy (CRediT). MetaArXiv. https://doi.org/10.31222/osf.io/2rp7s_v1
+If you use one of our translations, please consider our preprint, which received positive peer reviews from [MetaROR](MetaROR.org): Holcombe, A. O., Kovacs, M., Lagisz, M., Sætrevik, B., Pollo, P., Kochetkov, D., Pedersen, R., Mićunović, D., Mewded, B., Sabet, S. S., Færøvik, U., Yu, W. K., Vaidis, D. C., Santana, E. M., Trubanová, N., Varga, M. A., Surendran, A., Čulina, A., Akogwu, C. O., … Popova, N. (2025). Facilitating multilingual research publishing: Translations of the Contributor Roles Taxonomy (CRediT). MetaArXiv. https://doi.org/10.31222/osf.io/2rp7s
 
  ## Background
 
