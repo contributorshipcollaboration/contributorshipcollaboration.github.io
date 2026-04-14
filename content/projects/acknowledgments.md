@@ -9,11 +9,16 @@ description: Enhance the credit received by people listed in article Acknowledgm
 In this project, we are working to increase the career credit that 
 acknowledgees (people listed in the Acknowledgments sections of research papers) receive.
 
-See our article on this topic, [Improving Acknowledgments Sections to Better Credit Research Contributors](https://osf.io/preprints/metaarxiv/t2uwe_v1). One concrete step we are advocating for is adding ORCID numbers of acknowledgees to disambiguate their identities so that scholarly databases can index them. 
+See our article on this topic, [Improving Acknowledgments Sections to Better Credit Research Contributors](https://osf.io/preprints/metaarxiv/t2uwe_v1). Here are three concrete recommendations that we make:
+
+1. Include ORCID numbers in parentheses after names of individuals in Acknowledgments. This will disambiguate their identities so that scholarly databases can index them. 
+2. In manuscript submission systems, solicit identities, ORCIDs, and the contributions of
+acknowledgees in the same way as co-authors.
+3. In research outputs, include acknowledgees in JATS-XML in similar fashion to authors,
+but without the author tag. Optionally include CRediT information and ORCIDs.
 
 
-You can express interest in joining the project here:
-https://forms.gle/Nsdsvjye1TDytErZ7
+Let us know [here](https://forms.gle/Nsdsvjye1TDytErZ7) if you are interested in joining the project, and/or email alex.holcombe@sydney.edu.au .
 
 
-Keep up to date with all of our projects by following us on Mastodon at [https://neuromatch.social/@tenzingContrib](https://neuromatch.social/@tenzingContrib)
+Keep up to date with our projects by following us on Mastodon at [https://neuromatch.social/@tenzingContrib](https://neuromatch.social/@tenzingContrib)
