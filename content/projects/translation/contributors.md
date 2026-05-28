@@ -95,6 +95,7 @@ The below does not include contributions to the manuscript and blogposts.
 | Aswathi Surendran | Organizing data |
 | Befkadu Mewded | Outreach |
 | Bjørn Sætrevik | Outreach |
+| Caleb Onoja Akogwu | Outreach |
 | Eli Thoré | Outreach |
 | Erika Marques Santana | Outreach |
 | Malgorzata Lagisz | Lead, administration, communication, outreach |
