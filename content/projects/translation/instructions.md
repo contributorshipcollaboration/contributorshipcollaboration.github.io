@@ -13,13 +13,13 @@ We invite all interested to contribute to the project.
 
 **General instructions:**
 
- 1. Fill in the [Expression Of Interest (EOI) form](https://docs.google.com/forms/d/e/1FAIpQLSfdhqlnk4sw61MkkDuufZyqO1SKmnp--QE6vEG1_7qnP9MzJg/viewform?usp=sf_link), so we have your name and contact details.
+ 1. Contact one of the leaders - Alex Holcombe, Marton Kovacs, or Losia Lagisz to get on our mailing list and let us know what you are doing.
  1. To enable broad global participation, we will mostly work asynchronously online but have occasional Zoom hackathons.
  1. We expect all project contributors to familiarise themselves and follow our [code of conduct](https://github.com/marton-balazs-kovacs/tenzing/blob/master/CODE_OF_CONDUCT.md).
  1. If you would like to comment on this project or provide suggestions to improve this project, open an issue on GitHub or message on
 Slack (invites will be sent to project participants who filled in the [EOI form](https://docs.google.com/forms/d/e/1FAIpQLSfdhqlnk4sw61MkkDuufZyqO1SKmnp--QE6vEG1_7qnP9MzJg/viewform?usp=sf_link)) or email (aoholcombe@gmail.com).   
- 1. We will post updates on [the blog](https://contributorshipcollaboration.github.io/blog/), and will send occasional emails to our list of contributors contacts (please let us know if you wish to opt out at any point).
- 1. All contributions to this project are voluntary. We will not provide financial remuneration for any contributions (we have no funding).
+ 1. We will post updates on [the blog](https://contributorshipcollaboration.github.io/blog/), [Mastodon](https://neuromatch.social/@tenzingContrib) and will send occasional emails to our list of contributors contacts (please let us know if you wish to opt out at any point).
+ 1. All contributions to this project are voluntary, with no financial remuneration for any contributions (at the time of writing, we have no funding).
  1. You can withdraw from the project at any time.        
 
 ## 🧱  Translation contributions 
@@ -29,8 +29,6 @@ Anyone fluent in a language not already translated can help provide a new transl
 Before starting on a new translation:
 
 * Check if the  translation for your language has been [completed](https://contributorshipcollaboration.github.io/projects/translation/completed/)
-* Fill out our Expression of Interest (EOI) [form](https://docs.google.com/forms/d/e/1FAIpQLSfdhqlnk4sw61MkkDuufZyqO1SKmnp--QE6vEG1_7qnP9MzJg/viewform?usp=sf_link) to get in touch.
-
 
 ## Contributing to other facets of the project (we'd love your help!)
 
@@ -46,22 +44,14 @@ Before starting on a new translation:
 
 Contributors will be recognized in that their names will appear in the attribution for the translation they helped create. For example, see the [human-readable page for German](https://contributorshipcollaboration.github.io/projects/translation/translations/credit_translation_de/).
 
-Unfortunately we don't have funds to remunerate anyone for their work :(
-
 <!-- All project participants who contributed any amount of work, and provided their details, will be acknowledged as project contributors on the project page, report, presentations, and manuscript. We will mainly use a CRediT-like statement format, but we will also keep a more detailed record of individual contributions to specific tasks within the stages of the project. This record will be also made publicly availabe as part of the open project materials (as a publicly available dataset). You can request to have your details removed or obscured at any time.    -->
 
 ## 📄 Co-authorship (or, should that be co-*contributorship*? 😀)
-Project participants with substantial and high-quality contributions (as defined below) will become co-authors of the manuscript.
-They will contribute to any or all of these: translation, checking, website code, coordination, and/or report drafting.   
-  
-IMPORTANT: Authorship is also coditional on reading and approving the final manuscript draft before submission and providing all personal information (e.g., name, affiliation, email) needed for the submission.     
 
-Additional contribution oportunities may be available.
+For [the paper](https://metaror.org/article/facilitating-multilingual-research-publishing-translations-of-the-contributor-roles-taxonomy-credit/) about this translation project, 
+co-authorship has closed.
 
-First and last author positions are reserved for the project leads (they could be co-first and co-last positions). Subsequent authorship positions will be determined by the total amount and quality of contributions, as in the project records. For equal contributions the order of mid-authorship will be alphabetic. All authors must read and approve the final manuscript draft before submission. The manuscript will contain a CRediT statement detailing the roles of individual authors and contributors.   
-
-# 📍 Final notes   
-Project leads reserve the right to interpret and change the contribution rules at any time, if such need arises. In case of any disputes decisions of project leads will be final.    
+However, follow us (by joining the mailing list by contacting us) to potentially participate in our newer projects. 
 
 # 🔧  Maintainers
 
