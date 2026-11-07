@@ -11,7 +11,7 @@ Behind many published papers is a hidden layer of labour. Skilled technicians, l
 
 Yet when the resulting journal article is published, this person's name may not appear anywhere that counts. If they are mentioned, it is likely in the acknowledgments section with a few words of thanks. However, this will be invisible to every scholarly database that university managers or funding committees consult when making decisions about where to cut costs and who to fund.
 
-This problem is widespread across academia, and the lack of visibility harms the fairness, efficiency, and transparency of academic research.
+This problem is widespread across academia, and the lack of visibility harms the fairness, efficiency, and transparency of academic research. In this post, we outline the issue and a range of solutions described in further detail by us and our co-authors in [a recent article](https://www.tandfonline.com/doi/full/10.1080/08989621.2026.2681050).  
 
 ## The acknowledgment problem
 
@@ -33,11 +33,11 @@ The case for reform is not only a question about fairness, but also about the fu
 
 Funders and institutions often allocate resources based on individuals’ trackable records of contributions. If large swathes of contributions are invisible, those allocation decisions are made on incomplete information. This may result in the wrong people receiving funding. Conversely, the people doing essential but uncredited work have less incentive to do it well, or [to remain in research](https://www.sciencedirect.com/science/article/pii/S259033222500140X) at all.
 
-Another important aspect concerns [accountability](https://osf.io/preprints/metaarxiv/geqjx_v1), because knowing who did what matters when things go wrong. A recurring obstacle in investigating potentially fraudulent data is establishing [who actually collected, managed, or analysed it](https://alexholcombe.wordpress.com/2024/03/30/committing-research-fraud-is-easy-lets-make-it-harder/). A richer record of contributions, one that includes non-authors, would make it easier to ask the right questions of the right people, and would open up more opportunities to scrutinise datasets, analytical methods, and study procedures.
+Another important aspect concerns [accountability](https://www.pnas.org/doi/10.1073/pnas.2531268123), because knowing who did what matters when things go wrong. A recurring obstacle in investigating potentially fraudulent data is establishing [who actually collected, managed, or analysed it](https://alexholcombe.wordpress.com/2024/03/30/committing-research-fraud-is-easy-lets-make-it-harder/). A richer record of contributions, one that includes non-authors, would make it easier to ask the right questions of the right people, and would open up more opportunities to scrutinise datasets, analytical methods, and study procedures.
 
 ## Three routes to reform
 
-As we describe in [a recent preprint](https://osf.io/preprints/metaarxiv/t2uwe) – one of the [Contributorship Collaboration](https://contributorshipcollaboration.github.io/about/)’s open science initiatives – there are at least three routes to improving the recognition of non-author contributors.
+As we and our co-authors describe in [a recent article](https://www.tandfonline.com/doi/full/10.1080/08989621.2026.2681050) – one of the [Contributorship Collaboration](https://contributorshipcollaboration.github.io/about/)’s open science initiatives – there are at least three routes to improving the recognition of non-author contributors.
 
 The first is to broaden authorship criteria so that more contributors qualify as authors. [PLOS journals](https://theplosblog.plos.org/2023/05/plos-authorship-policy-update-adopting-a-more-inclusive-standard/) and the [International Committee of Medical Journal Editors](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) both updated their guidelines in 2023 to remove or soften the writing criterion. A related step, [already adopted by thousands of journals](https://direct.mit.edu/qss/article/2/1/111/97558/Investigating-the-division-of-scientific-labor), is The Contributor Role Taxonomy (CRediT), a standardised vocabulary with roles such as 'Data Curation,' 'Formal Analysis,' and 'Writing – Original Draft.' CRediT increases transparency about who did what and may facilitate further relaxation of authorship criteria.
 
