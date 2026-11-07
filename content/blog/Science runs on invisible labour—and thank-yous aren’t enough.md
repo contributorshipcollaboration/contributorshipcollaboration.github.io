@@ -15,7 +15,7 @@ This problem is widespread across academia, and the lack of visibility harms the
 
 ## The acknowledgment problem
 
-| ![putti operating laboratory equipment while a scholar holds a book](https://github.com/contributorshipcollaboration/contributorshipcollaboration.github.io/blob/master/content/blog/putti.png) |
+|Putti operating laboratory equipment while a scholar holds a book](images/putti.png)|
 |:--:|
 |One artistic norm which sustained technicians' invisibility in the 17th century was to depict only the scholar as identifiable while illustrating the technical equipment as being operated by helpful putti rather than by the actual human assistants doing the work (Copyright Museum of the History of Science, University of Oxford). In his [article](https://www.jstor.org/stable/27856006?seq=1), Steven Shapin notes multiple similar artistic practices.|
 
