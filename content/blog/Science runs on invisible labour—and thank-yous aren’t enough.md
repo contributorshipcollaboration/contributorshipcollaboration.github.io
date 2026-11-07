@@ -15,7 +15,7 @@ This problem is widespread across academia, and the lack of visibility harms the
 
 ## The acknowledgment problem
 
-| ![putti operating laboratory equipment while a scholar holds a book](/images/putti.png](https://github.com/contributorshipcollaboration/contributorshipcollaboration.github.io/blob/master/static/images/putti.png) |
+| ![putti operating laboratory equipment while a scholar holds a book](https://github.com/contributorshipcollaboration/contributorshipcollaboration.github.io/blob/master/static/images/putti.png) |
 |:--:|
 | Copyright Museum of the History of Science, University of Oxford |
 
