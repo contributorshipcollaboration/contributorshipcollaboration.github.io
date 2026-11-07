@@ -57,7 +57,7 @@ Second, journal submission portals should treat acknowledgees more like co-autho
 
 Third, publishers should include acknowledgee information in the metadata files that accompany journal articles (the machine-readable JATS-XML files that scholarly databases ingest). Currently this metadata records authors, editors, and sometimes reviewers, but not acknowledgees. Doing so requires no new standard, it simply means adding a new value and tag. Publishers have already done something analogous for funders. Like acknowledgments funding information used to be  written in non-machine-readable free text, however, when metadata tags for funding information were created for [CrossRef in 2013](https://www.crossref.org/news/2013-05-28-crossrefs-fundref-launches-publishers-and-funders-track-scholarly-output/), databases like [SCOPUS quickly started indexing that information](https://researchcollaborations.elsevier.com/en/publications/scopus-as-a-curated-high-quality-bibliometric-data-source-for-aca/).
 
-None of these steps requires a revolution in publishing. They draw on existing standards, existing infrastructure, and existing workflows, and could be adopted incrementally, by individual researchers, journals, or publishers — without waiting for universal agreement.
+None of these steps requires a revolution because they draw on existing standards, existing infrastructure, and existing workflows. They can thus be adopted incrementally, by individual researchers, journals, or publishers — without waiting for universal agreement.
 
 ## Making the invisible visible
 
