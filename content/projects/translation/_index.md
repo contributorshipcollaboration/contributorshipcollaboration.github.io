@@ -6,7 +6,7 @@ description: Translating the text of CRediT (the Contributor Roles Taxonomy) fro
 layout: "translation/list"
 ---
 
-CRediT is a NISO standard for indicating who did what in the projects associated with scientific journal articles. It is a [taxonomy of 14 different roles](https://credit.niso.org).
+CRediT is a NISO standard for indicating who did what in scholarly research projects. It is a [taxonomy of 14 different roles](https://credit.niso.org).
 
 Our translations into over 35 languages are in machine-readable form in [this repository](https://github.com/contributorshipcollaboration/credit-translation) 
  for journals to use. Our code renders them into human-readable form [here](https://contributorshipcollaboration.github.io/projects/translation/completed/).
